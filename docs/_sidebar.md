@@ -1,2 +1,2 @@
-- 快速开始
+- Quick Start
   - [README](README.md)
