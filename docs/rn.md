@@ -1,3 +1,11 @@
+# Build 33
+
+- Added: local history for text editing
+- Added: new option to disable "readable width" for iPad
+- Fixed: several crashes
+- Improved: refreshed action accent colors
+- Improved: actions widgets now look better
+
 # Build 32
 
 - Fixed: a memory leak which blocks the diff compare functionality
