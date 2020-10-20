@@ -1,3 +1,7 @@
+# Build 35
+
+- Fixed: renaming creates duplicate files
+
 # Build 33
 
 - Added: local history for text editing
