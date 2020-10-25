@@ -1,3 +1,8 @@
+# Build 36
+
+- Fixed: some layout issues
+- Fixed: several accessibility issues
+
 # Build 35
 
 - Fixed: renaming creates duplicate files
