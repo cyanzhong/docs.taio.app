@@ -1,4 +1,2 @@
 - [Release Notes](rn.md)
-- Translations
-  - [:us: English](/)
-  - [:cn: 中文](/cn/)
+- [EN / **CN**](/)
