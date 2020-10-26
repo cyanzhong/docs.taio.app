@@ -1,2 +1,2 @@
 - [Release Notes](rn.md)
-- [EN / **CN**](https://docs.taio.app/#/)
+- [EN / **CN**](/)
