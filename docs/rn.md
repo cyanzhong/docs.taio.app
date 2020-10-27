@@ -1,3 +1,7 @@
+# Build 38
+
+- Added: share files as TextBundle format
+
 # Build 36
 
 - Fixed: some layout issues
