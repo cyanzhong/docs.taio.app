@@ -1,3 +1,9 @@
+# Build 40
+
+- Added: numbers in action can be variable
+- Fixed: encoding issues for math formulas
+- Fixed: unable to open external files from the Files app
+
 # Build 38
 
 - Added: share files as TextBundle format
