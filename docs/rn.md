@@ -1,8 +1,8 @@
 # Build 42
 
 - Added: new action to extend selection by detecting word, sentence, and paragraph
-- Added: new example action to get headings
-- Fixed: home screen actions not working on cold launch
+- Added: new example actions to get headings
+- Fixed: home screen shortcut not working on cold launch
 - Improved: reduce app size
 - Improved: actions builder UI polish
 
