@@ -1,2 +1,4 @@
 - Quick Start
   - [README](README.md)
+- App Integration
+  - [URL Schemes](integration/url-schemes.md)

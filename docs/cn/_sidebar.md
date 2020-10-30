@@ -1,2 +1,4 @@
 - 快速开始
   - [README](cn/README.md)
+- 应用集成
+  - [URL Schemes](cn/integration/url-schemes.md)
