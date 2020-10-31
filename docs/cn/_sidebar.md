@@ -1,4 +1,6 @@
 - 快速开始
   - [README](cn/README.md)
+- 文本动作
+  - [基础知识](cn/actions/basics.md)
 - 应用集成
   - [URL Schemes](cn/integration/url-schemes.md)
