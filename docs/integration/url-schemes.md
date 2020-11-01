@@ -16,6 +16,20 @@ taio://clips?action=save
 taio://clips?action=copy&text=text
 ```
 
+## Create A New File
+
+```
+taio://editor?action=new
+```
+
+## Open A File in The Editor
+
+```
+taio://editor?action=open&path=path&location=0
+```
+
+`location` 0: local files, 1: iCloud Drive files.
+
 ## Import Actions
 
 ```

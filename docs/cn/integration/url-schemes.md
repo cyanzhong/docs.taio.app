@@ -16,6 +16,20 @@ taio://clips?action=save
 taio://clips?action=copy&text=text
 ```
 
+## 创建新文件
+
+```
+taio://editor?action=new
+```
+
+## 在编辑器中打开文件
+
+```
+taio://editor?action=open&path=path&location=0
+```
+
+`location` 0：本地文件，1：iCloud 云盘文件。
+
 ## 导入动作
 
 ```
