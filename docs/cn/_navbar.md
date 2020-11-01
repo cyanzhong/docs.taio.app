@@ -1,2 +1,2 @@
-- [Release Notes](rn.md)
+- [更新记录](rn.md)
 - [EN / **CN**](/)

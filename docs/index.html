@@ -50,7 +50,13 @@
       EditOnGithubPlugin.create(
         'https://github.com/cyanzhong/docs.taio.app/blob/master/docs/',
         null,
-        'Edit on GitHub'
+        path => {
+          if (path.indexOf('cn/') === 0) {
+            return '在 GitHub 上编辑';
+          } else {
+            return 'Edit on GitHub';
+          }
+        }
       )
     ]
   }
