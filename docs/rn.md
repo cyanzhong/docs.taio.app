@@ -1,3 +1,9 @@
+# Build 44
+
+- Added: new combined widget for both clips and actions
+- Added: new URL schemes to handle files
+- Improved: minor UI improvements
+
 # Build 42
 
 - Added: new action to extend selection by detecting word, sentence, and paragraph
