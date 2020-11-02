@@ -59,3 +59,15 @@ taio://actions?action=import&url=https%3A%2F%2Ftaio.app%2Fdemo.taioactions
 ```
 
 The original text for `url` is `https://taio.app/demo.taioactions` (It's a pseudo link just for example), without URL encoding, the parameter will not be correctly extracted.
+
+## x-callback-url
+
+Taio supports [x-callback-url](http://x-callback-url.com) standard for running actions, for example:
+
+```
+taio://x-callback-url/actions?action=run&name=name&x-success=successURL&x-error=errorURL&x-cancel=cancelURL
+```
+
+When actions finish running without errors, `x-success` will be opened, the output value will be added as `taio-output`. Otherwise, `x-error` will be opened, the error message will be added as `taio-error`. If the user manually cancels it, `x-cancel` will be opened.
+
+For details, please refer to the [x-callback-url](http://x-callback-url.com) specification.

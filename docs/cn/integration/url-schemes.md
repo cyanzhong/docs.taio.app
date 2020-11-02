@@ -59,3 +59,15 @@ taio://actions?action=import&url=https%3A%2F%2Ftaio.app%2Fdemo.taioactions
 ```
 
 上述 `url` 的原始内容是 `https://taio.app/demo.taioactions`（仅作为示例的假链接），若不被 URL 编码，该参数将无法被正确地读取。
+
+## x-callback-url
+
+Taio 支持使用 [x-callback-url](http://x-callback-url.com) 标准来运行动作，例如：
+
+```
+taio://x-callback-url/actions?action=run&name=name&x-success=successURL&x-error=errorURL
+```
+
+当动作被正确执行之后，`x-success` 将会被打开，输出结果将会被填充到 `taio-output` 参数。反之，`x-error` 将会被打开，错误信息将会被填充到 `taio-error` 参数。如果用户手动取消了运行，`x-cancel` 将会被打开。
+
+请参考 [x-callback-url](http://x-callback-url.com) 标准以了解更多细节。
