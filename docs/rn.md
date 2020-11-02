@@ -1,3 +1,8 @@
+# Build 46
+
+- Added: new URL schemes
+- Improved: widget UI
+
 # Build 44
 
 - Added: new combined widget for both clips and actions
