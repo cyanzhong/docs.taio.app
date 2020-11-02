@@ -16,6 +16,14 @@ taio://clips?action=save
 taio://clips?action=copy&text=text
 ```
 
+## 清除剪贴内容
+
+```
+taio://clips?action=clear
+```
+
+> 小心使用这个功能，它会不经过询问即清除所有的剪贴内容。
+
 ## 创建新文件
 
 ```

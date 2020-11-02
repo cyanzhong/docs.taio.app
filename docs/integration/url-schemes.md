@@ -16,6 +16,14 @@ taio://clips?action=save
 taio://clips?action=copy&text=text
 ```
 
+## Clear All Clips
+
+```
+taio://clips?action=clear
+```
+
+> Be careful with this, it clears all clips without asking for confirmation.
+
 ## Create A New File
 
 ```
