@@ -68,6 +68,6 @@ Taio supports [x-callback-url](http://x-callback-url.com) standard for running a
 taio://x-callback-url/actions?action=run&name=name&x-success=successURL&x-error=errorURL&x-cancel=cancelURL
 ```
 
-When actions finish running without errors, `x-success` will be opened, the output value will be added as `taio-output`. Otherwise, `x-error` will be opened, the error message will be added as `taio-error`. If the user manually cancels it, `x-cancel` will be opened.
+When actions finish running without errors, `x-success` will be opened, the output value will be added as `taio-output`. Otherwise, `x-error` will be opened, the error message will be added as `taio-error`.
 
 For details, please refer to the [x-callback-url](http://x-callback-url.com) specification.
