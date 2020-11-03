@@ -1,3 +1,8 @@
+# Build 47
+
+- Added: TextExpander support
+- Improved: actions gallery is more efficient
+
 # Build 46
 
 - Added: new URL schemes
