@@ -1,3 +1,7 @@
+# Build 51
+
+- Improved: add image workflow is much better
+
 # Build 47
 
 - Added: TextExpander support
