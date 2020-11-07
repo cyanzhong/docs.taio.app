@@ -44,6 +44,14 @@ taio://editor?action=open&path=path&location=0
 taio://actions?action=import&url=url
 ```
 
+When the file is quite small, you can also use `data` instead of `url`:
+
+```
+taio://actions?action=import&data=data
+```
+
+`data` is the file content, it should be URL encoded.
+
 ## Run Actions
 
 ```

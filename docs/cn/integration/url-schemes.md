@@ -44,6 +44,14 @@ taio://editor?action=open&path=path&location=0
 taio://actions?action=import&url=url
 ```
 
+当文件比较小时，也可以使用 `data` 来替代 `url`：
+
+```
+taio://actions?action=import&data=data
+```
+
+`data` 是文件内容，需要被 URL 编码。
+
 ## 运行动作
 
 ```
