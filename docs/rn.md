@@ -1,3 +1,10 @@
+# Build 52
+
+- Added: taio://actions?action=import now supports URL encoded data
+- Improved: text editor visual effects
+- Improved: better documentation for actions
+- Improved: "File Name" action now supports getting full path
+
 # Build 51
 
 - Improved: add image workflow is much better
