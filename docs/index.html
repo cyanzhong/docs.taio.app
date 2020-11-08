@@ -24,7 +24,12 @@
 <script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github/index.js"></script>
 <script>
   window.$docsify = {
-    alias: {},
+    alias: {
+      '/((?!cn).)*/_sidebar.md': '/_sidebar.md',
+      '/((?!cn).)*/_navbar.md': '/_navbar.md',
+      '/cn/.*/_sidebar.md': '/cn/_sidebar.md',
+      '/cn/.*/_navbar.md': '/cn/_navbar.md'
+    },
     auto2top: true,
     coverpage: false,
     executeScript: true,
