@@ -5,3 +5,6 @@
   - [Scripting](actions/scripting.md)
 - App Integration
   - [URL Schemes](integration/url-schemes.md)
+- Privacy & Terms
+  - [Private Policy](privacy.md)
+  - [Terms of Service](terms.md)

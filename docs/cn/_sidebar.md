@@ -5,3 +5,6 @@
   - [脚本编程](cn/actions/scripting.md)
 - 应用集成
   - [URL Schemes](cn/integration/url-schemes.md)
+- 隐私和条款
+  - [隐私政策](cn/privacy.md)
+  - [使用条款](cn/terms.md)
