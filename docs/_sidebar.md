@@ -2,5 +2,6 @@
   - [README](README.md)
 - Text Actions
   - [Basics](actions/basics.md)
+  - [Scripting](actions/scripting.md)
 - App Integration
   - [URL Schemes](integration/url-schemes.md)

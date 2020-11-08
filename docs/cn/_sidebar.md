@@ -2,5 +2,6 @@
   - [README](cn/README.md)
 - 文本动作
   - [基础知识](cn/actions/basics.md)
+  - [脚本编程](cn/actions/scripting.md)
 - 应用集成
   - [URL Schemes](cn/integration/url-schemes.md)
