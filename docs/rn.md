@@ -1,3 +1,8 @@
+# Build 55
+
+- Fixed: unable to use "Open in Place"
+- Improved: accessibility labels
+
 # Build 52
 
 - Added: taio://actions?action=import now supports URL encoded data
