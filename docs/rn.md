@@ -1,3 +1,8 @@
+# Build 56
+
+- Added: gestures for text editing
+- Added: diff compare for file changes
+
 # Build 55
 
 - Fixed: unable to use "Open in Place"
