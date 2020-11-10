@@ -6,6 +6,12 @@ Taio 提供了对运行 JavaScript 的全面支持。更重要的是，JavaScrip
 
 关于 JSBox 模块的使用细节，请参考 [JSBox 文档](https://docs.xteko.com/#/en/)。
 
+# 运行 JavaScript
+
+要在 Taio 中使用 JavaScript，只需添加一个名为 `运行 JavaScript` 的操作，然后在编辑器中编写 JavaScript 代码。
+
+代码编辑器功能全面，提供语法高亮和自动补全，也可以通过点击 `全屏编辑器` 选项将其展开至全屏模式。
+
 # $actions
 
 除了默认的模块（如 `$http` 和 `$ui`），Taio 还特别提供了 `$actions` 模块。通过这个模块，您可以很容易地操作动作的输入和输出。

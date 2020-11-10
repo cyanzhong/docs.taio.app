@@ -6,6 +6,12 @@ For details about the JavaScript programming language, refer to some well-known 
 
 For details about using JSBox modules, refer to the [JSBox documentation](https://docs.xteko.com/#/en/).
 
+# Run JavaScript
+
+To use JavaScript in Taio, simply add an action called `Run JavaScript` and write JavaScript code in the editor.
+
+The code editor is powerful that provides syntax highlighting and auto completion, you can also expand it to full screen mode by tapping on the `Full Editor` option.
+
 # $actions
 
 Other than default modules (like `$http`, `$ui`), there's a `$actions` module for Taio. With this module, you can manipulate input and output for actions easily.
