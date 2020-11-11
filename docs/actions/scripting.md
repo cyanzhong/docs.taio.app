@@ -6,17 +6,17 @@ For details about the JavaScript programming language, refer to some well-known 
 
 For details about using JSBox modules, refer to the [JSBox documentation](https://docs.xteko.com/#/en/).
 
-# Run JavaScript
+## Run JavaScript
 
 To use JavaScript in Taio, simply add an action called `Run JavaScript` and write JavaScript code in the editor.
 
 The code editor is powerful that provides syntax highlighting and auto completion, you can also expand it to full screen mode by tapping on the `Full Editor` option.
 
-# $actions
+## $actions
 
 Other than default modules (like `$http`, `$ui`), there's a `$actions` module for Taio. With this module, you can manipulate input and output for actions easily.
 
-# $actions.inputValue
+## $actions.inputValue
 
 Get the current value from the previous action:
 
@@ -24,7 +24,7 @@ Get the current value from the previous action:
 const inputValue = $actions.inputValue;
 ```
 
-# $actions.getVar(name)
+## $actions.getVar(name)
 
 Get a variable using its name, the variable can be set using the `Set Variable` action:
 
@@ -32,7 +32,7 @@ Get a variable using its name, the variable can be set using the `Set Variable` 
 const value = $actions.getVar("value");
 ```
 
-# $actions.setVar(name, value)
+## $actions.setVar(name, value)
 
 Set a variable using name and value, same as running the `Set Variable` action:
 
@@ -40,7 +40,7 @@ Set a variable using name and value, same as running the `Set Variable` action:
 $actions.setVar("name", "value");
 ```
 
-# $actions.resolve(value)
+## $actions.resolve(value)
 
 Finish the current JavaScript action with an output value:
 
@@ -50,7 +50,7 @@ $actions.resolve("value");
 
 The output value will be sent to the next action.
 
-# $actions.reject(error)
+## $actions.reject(error)
 
 Finish the current JavaScript action with an error:
 
@@ -60,7 +60,7 @@ $actions.reject("Failed to run JavaScript.");
 
 The error message will be presented as an alert, and the execution will be stopped immediately.
 
-# $actions.finish()
+## $actions.finish()
 
 Stop running immediately, the following actions will be ignored:
 
