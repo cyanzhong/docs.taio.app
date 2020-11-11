@@ -1,6 +1,8 @@
-*本文档基于 [Docsify](https://docsify.js.org) 部署在 [GitHub](https://github.com/cyanzhong/docs.taio.app)，欢迎一起改进*
+# Taio
 
-> 我们正在努力编写文档，敬请期待！
+本文档提供了对 [Taio](https://apps.apple.com/cn/app/id1527036273) 应用的新手指引、使用技巧，以及一些起到参考作用的示例。
+
+我们会及时更新这个文档以适应应用的变化，请关注我们的[更新日志](rn.md)。
 
 # 联系我们
 

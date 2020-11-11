@@ -1,6 +1,8 @@
-*This website is based on [Docsify](https://docsify.js.org), hosted on the [GitHub](https://github.com/cyanzhong/docs.taio.app), pull requests are welcome.*
+# Taio
 
-> We are working hard on the documentation, please stay tuned!
+This document provides instructions, tips and tricks for getting started with the [Taio](https://apps.apple.com/us/app/id1527036273) app, as well as some reference examples.
+
+We will keep this documentation updated to accommodate changes to the app, please stay tuned for our [Release Notes](rn.md).
 
 # Contact Us
 
