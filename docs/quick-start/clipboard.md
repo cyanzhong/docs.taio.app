@@ -30,4 +30,4 @@ You can enter the edit mode by tapping on the button in the top left corner (or 
 
 <img src="/quick-start/assets/IMG_4.png" width="360" />
 
-> Pro Tip: In this mode, the small circle on the left supports sliding for quick selection.
+> Pro Tip: In this mode, the checkbox on the left supports sliding for quick selection.
