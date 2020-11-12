@@ -1,5 +1,8 @@
 - Quick Start
   - [README](README.md)
+  - [Clipboard](quick-start/clipboard.md)
+  - [Editor](quick-start/editor.md)
+  - [Actions](quick-start/actions.md)
 - Text Actions
   - [Basics](actions/basics.md)
   - [Scripting](actions/scripting.md)

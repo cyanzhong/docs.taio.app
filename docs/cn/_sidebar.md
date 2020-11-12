@@ -1,5 +1,8 @@
 - 快速开始
-  - [README](cn/README.md)
+  - [关于](cn/README.md)
+  - [剪贴板](cn/quick-start/clipboard.md)
+  - [编辑器](cn/quick-start/editor.md)
+  - [文本动作](cn/quick-start/actions.md)
 - 文本动作
   - [基础知识](cn/actions/basics.md)
   - [脚本编程](cn/actions/scripting.md)
