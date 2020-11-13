@@ -49,3 +49,17 @@ Tap the ⚡️ button in the upper right corner to use actions in the editor:
 <img src="/quick-start/assets/IMG_11.png" width="360" />
 
 > Pro Tip: If you're using an iPad, you can also do this with keyboard shortcuts (hold the ⌘ key to get a hint).
+
+## Supported Extensions
+
+We are working on custom templates for Markdown preview, which allows you to render any custom format.
+
+Before that, we have also built in some common syntax extensions for Taio:
+
+- [Highlightjs](https://highlightjs.org/)
+- [MathJax](https://www.mathjax.org/)
+- [Sequence Diagrams](https://bramp.github.io/js-sequence-diagrams/)
+- [Flowchart](https://flowchart.js.org/)
+- [Mermaid](https://mermaid-js.github.io/mermaid/#/)
+
+These extensions allow you to highlight code, display math formulas, flowcharts and more in Markdown, please refer to their documentation for more information.

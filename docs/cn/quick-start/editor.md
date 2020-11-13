@@ -49,3 +49,17 @@ Taio 会自动提取文档中的各级标题，生成大纲视图，轻点标题
 <img src="/cn/quick-start/assets/IMG_11.png" width="360" />
 
 > 小提示：如果您在使用 iPad，也可以通过快捷键完成操作（按住 ⌘ 键即可获得提示）。
+
+## 支持的扩展
+
+我们正在为 Markdown 预览提供自定义模板的支持，让您可以显示任何自定义的格式。
+
+在此之前，我们也为 Taio 内置了一些常用的语法扩展：
+
+- [Highlightjs](https://highlightjs.org/)
+- [MathJax](https://www.mathjax.org/)
+- [Sequence Diagrams](https://bramp.github.io/js-sequence-diagrams/)
+- [Flowchart](https://flowchart.js.org/)
+- [Mermaid](https://mermaid-js.github.io/mermaid/#/)
+
+这些扩展可以让您在 Markdown 中高亮代码、显示数学公式和流程图等，请参考各自的文档获取更多信息。
