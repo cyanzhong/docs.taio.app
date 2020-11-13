@@ -3,6 +3,9 @@
   - [剪贴板](cn/quick-start/clipboard.md)
   - [编辑器](cn/quick-start/editor.md)
   - [文本动作](cn/quick-start/actions.md)
+- 编辑器
+  - [你好，Markdown](cn/editor/hello-markdown.md)
+  - [进阶技巧](cn/editor/pro-tips.md)
 - 文本动作
   - [基础知识](cn/actions/basics.md)
   - [脚本编程](cn/actions/scripting.md)

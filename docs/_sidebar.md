@@ -3,6 +3,9 @@
   - [Clipboard](quick-start/clipboard.md)
   - [Editor](quick-start/editor.md)
   - [Actions](quick-start/actions.md)
+- Editor
+  - [Hello, Markdown](editor/hello-markdown.md)
+  - [Pro Tips](editor/pro-tips.md)
 - Text Actions
   - [Basics](actions/basics.md)
   - [Scripting](actions/scripting.md)
