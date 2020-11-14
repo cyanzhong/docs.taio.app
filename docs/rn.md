@@ -1,3 +1,9 @@
+# Build 65
+
+- Added: in-app guide
+- Improved: better UI for iPadOS
+- Improved: action builder performance
+
 # Build 56
 
 - Added: gestures for text editing
