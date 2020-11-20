@@ -10,7 +10,7 @@ Taio is still in the early stages of development and we do not charge you anythi
 
 Please note that we do not promise that all features will be free at any stage in the future. The features you are using may require purchase in subsequent versions.
 
-Please don't worry, we do our best to find a balance between **maintaining the cost of development** and **providing the best user experience** so that everyone can enjoy using a quality product and pay for something that is truly valuable to them.
+Please don't worry, we do our best to find a balance between **maintaining the cost of development** and **providing the best user experience** so that everyone can enjoy using a high quality product and pay for something that is truly valuable to them.
 
 **Refund**
 
