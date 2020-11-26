@@ -1,3 +1,12 @@
+# Build 81
+
+- Added: new option to disable the toolbar when keyboard is connected
+- Fixed: several reported accessibility issues
+- Fixed: issue with automatic line numbering
+- Fixed: folder shows wrong number of files
+- Fixed: UI issue with Drag & Drop action insertion
+- Improved: disable syntax highlighting for large files
+
 # Build 65
 
 - Added: in-app guide
