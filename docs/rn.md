@@ -1,3 +1,9 @@
+# Build 82
+
+- Added: installed fonts are available now
+- Improved: font weight is supported for custom fonts
+- Improved: swipe gesture now works better
+
 # Build 81
 
 - Added: new option to disable the toolbar when keyboard is connected
