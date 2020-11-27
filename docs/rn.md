@@ -1,3 +1,10 @@
+# Build 83
+
+- Added: you can now restore deleted clippings
+- Improved: default dark theme is now darker
+- Improved: exported HTML files are much smaller
+- Improved: better rendering strategy for diagrams
+
 # Build 82
 
 - Added: installed fonts are available now
