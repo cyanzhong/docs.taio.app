@@ -1,0 +1,34 @@
+body {
+  font-size: 17px;
+}
+
+input {
+  border-radius: 4px;
+}
+
+.app-nav a {
+  font-size: 17px;
+}
+
+.app-nav > ul > li > a.active {
+  color: inherit;
+  border-bottom: none;
+}
+
+.sidebar > h1 {
+  font-weight: 600;
+}
+
+.sidebar ul li a {
+  font-size: 15px;
+}
+
+@media (max-width: 768px) {
+  .sidebar-toggle span {
+    width: 32px;
+    margin-bottom: 8px;
+  }
+  .markdown-section {
+    max-width: 95%;
+  }
+}
