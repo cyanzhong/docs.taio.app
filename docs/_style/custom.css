@@ -23,6 +23,10 @@ input {
   font-size: 15px;
 }
 
+.sidebar-toggle:hover .sidebar-toggle-button {
+  opacity: 1;
+}
+
 @media (max-width: 768px) {
   .sidebar-toggle span {
     width: 32px;
