@@ -1,3 +1,9 @@
+# Build 84
+
+- Added: text encode action supports uri component encode
+- Added: new example actions to merge clippings
+- Improved: smart quotes and dashes are enabled
+
 # Build 83
 
 - Added: you can now restore deleted clippings
