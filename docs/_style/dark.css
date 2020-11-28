@@ -1,6 +1,6 @@
 body {
-  background-color: #121212;
-  color: #ffffff;
+  background-color: #0c0c0c;
+  color: #e3e3e3;
 }
 
 kbd {
@@ -8,7 +8,7 @@ kbd {
 }
 
 .app-nav li ul {
-  background-color: #121212;
+  background-color: #0c0c0c;
   border: #333333;
   border-bottom-color: #444444;
 }
@@ -22,21 +22,17 @@ kbd {
 }
 
 input {
-  background-color: #121212;
-}
-
-.anchor span {
-  color: #B1D8FF;
+  background-color: #0c0c0c;
 }
 
 .sidebar {
-  background-color: #121212;
+  background-color: #0c0c0c;
   color: #ffffff;
   border-right-color: rgba(255, 255, 255, 0.07);
 }
 
 .sidebar-toggle {
-  background-color: rgba(18, 18, 18, 0.8);
+  background-color: rgba(12, 12, 12, 0.8);
 }
 
 .sidebar ul li a {
@@ -52,7 +48,7 @@ input {
 }
 
 .github-corner svg {
-  color: #121212;
+  color: #0c0c0c;
 }
 
 .markdown-section th {
@@ -76,7 +72,7 @@ input {
 }
 
 .markdown-section p.tip:before {
-  color: #121212;
+  color: #0c0c0c;
 }
 
 .markdown-section p.tip code {
@@ -87,8 +83,12 @@ input {
 .markdown-section h2,
 .markdown-section h3,
 .markdown-section h4,
+.anchor span {
+  color: #ffffff;
+}
+
 .markdown-section strong {
-  color: #B1D8FF;
+  color: #95cafe;
 }
 
 .markdown-section code {
@@ -100,16 +100,16 @@ input {
     background-color: transparent;
   }
   body.close .sidebar-toggle {
-    background-color: rgba(255, 255, 255, 0.07);
+    background-color: rgba(12, 12, 12, 0.07);
   }
 }
 
 section.cover.has-mask .mask {
-  background-color: #121212;
+  background-color: #0c0c0c;
 }
 
-section.cover .cover-main>p:last-child a:last-child {
-  color: #121221;
+section.cover .cover-main > p:last-child a:last-child {
+  color: #0c0c0c;
 }
 
 .token.comment,
@@ -213,7 +213,7 @@ section.cover .cover-main>p:last-child a:last-child {
   background-color: #1d1f21;
 }
 
-.markdown-section pre>code {
+.markdown-section pre > code {
   background-color: #1d1f21;
   color: #c5c8c6;
 }
