@@ -1,3 +1,7 @@
+# Build 85
+
+- Added: Shortcuts support for clipboard and documents
+
 # Build 84
 
 - Added: text encode action supports uri component encode
