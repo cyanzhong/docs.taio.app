@@ -16,6 +16,8 @@ For adding widgets to your home screen, please refer to the [guide](https://supp
 
 If you don't use either method, manually switching to the clipboard tab after opening the app will also automatically save the content of the clipboard.
 
+> If you want to save clipboard without launching the app, you can use [Shortcuts](/integration/shortcuts.md).
+
 ## Working with Clipboard Data
 
 You can initiate an action with clipboard data by long-pressing a specific clipping:

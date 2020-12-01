@@ -10,6 +10,7 @@
   - [基础知识](cn/actions/basics.md)
   - [脚本编程](cn/actions/scripting.md)
 - 应用集成
+  - [快捷指令](cn/integration/shortcuts.md)
   - [URL Schemes](cn/integration/url-schemes.md)
 - 隐私和条款
   - [隐私政策](cn/privacy.md)

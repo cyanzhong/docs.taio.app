@@ -11,6 +11,7 @@
   - [Basics](actions/basics.md)
   - [Scripting](actions/scripting.md)
 - App Integration
+  - [Shortcuts](integration/shortcuts.md)
   - [URL Schemes](integration/url-schemes.md)
 - Privacy & Terms
   - [Private Policy](privacy.md)
