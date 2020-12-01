@@ -1,3 +1,8 @@
+# Build 91
+
+- Added: deleted files can be restored
+- Fixed: file encoding issues
+
 # Build 85
 
 - Added: Shortcuts support for clipboard and documents
