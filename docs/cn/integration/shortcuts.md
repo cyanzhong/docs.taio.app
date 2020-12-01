@@ -12,7 +12,7 @@
 
 <img src="/cn/integration/assets/IMG_2.png" width="360" />
 
-若不指定动作，快捷指令会在运行时询问需要运行的动作。
+这将打开 Taio 应用并启动指定的动作。
 
 ## 保存剪贴板
 

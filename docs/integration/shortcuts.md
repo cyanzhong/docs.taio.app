@@ -12,7 +12,7 @@ Other than specify the action name, you can also provide an input value:
 
 <img src="/integration/assets/IMG_2.png" width="360" />
 
-If no action is specified, Shortcuts will ask for an action to run at runtime.
+It will open the Taio app and launch the specified actions.
 
 ## Save Clipping
 
