@@ -52,6 +52,12 @@ taio://actions?action=import&data=data
 
 `data` 是文件内容，需要被 URL 编码。
 
+也可以导入复制到剪贴板的动作：
+
+```
+taio://actions?action=import&data=clipboard
+```
+
 ## 运行动作
 
 ```

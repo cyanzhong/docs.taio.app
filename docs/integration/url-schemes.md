@@ -52,6 +52,12 @@ taio://actions?action=import&data=data
 
 `data` is the file content, it should be URL encoded.
 
+It can also import actions copied to the clipboard:
+
+```
+taio://actions?action=import&data=clipboard
+```
+
 ## Run Actions
 
 ```
