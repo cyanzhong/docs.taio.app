@@ -4,7 +4,7 @@ Taio 提供了对运行 JavaScript 的全面支持。更重要的是，JavaScrip
 
 关于 JavaScript 编程语言，可以参考一些知名教程，比如 [javascript.info](https://javascript.info/)。
 
-关于 JSBox 模块的使用细节，请参考 [JSBox 文档](https://docs.xteko.com/#/en/)。
+关于 JSBox 模块的使用细节，请参考 [JSBox 文档](https://docs.xteko.com/#/)。
 
 ## 运行 JavaScript
 
