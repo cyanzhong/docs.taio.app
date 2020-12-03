@@ -1,3 +1,11 @@
+# Build 96
+
+- Added: split text action supports regex
+- Added: render HTML action supports full screen
+- Improved: better strategy for iCloud syncing
+- Fixed: icons for copy & paste command are not correct
+- Fixed: several clipping editing bugs
+
 # Build 91
 
 - Added: deleted files can be restored
