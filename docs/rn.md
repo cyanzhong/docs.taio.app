@@ -1,3 +1,9 @@
+# Build 97
+
+- Added: native edit actions for Bold/Italic/Underline
+- Added: new option to disable auto save for clipboard
+- Added: new export option to print HTML preview
+
 # Build 96
 
 - Added: split text action supports regex
