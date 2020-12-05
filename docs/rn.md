@@ -1,3 +1,8 @@
+# Build 99
+
+- Fixed: file bookmark issues
+- Improved: minor interface changes
+
 # Build 97
 
 - Added: native edit actions for Bold/Italic/Underline
