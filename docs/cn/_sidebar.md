@@ -1,5 +1,6 @@
 - 快速开始
   - [关于](cn/README.md)
+  - [常见问题](cn/faq.md)
   - [剪贴板](cn/quick-start/clipboard.md)
   - [编辑器](cn/quick-start/editor.md)
   - [文本动作](cn/quick-start/actions.md)
