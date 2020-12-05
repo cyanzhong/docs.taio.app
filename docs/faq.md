@@ -4,7 +4,7 @@
 
 Thank you for your interest in Taio. We are working on a macOS version, but will not be releasing it soon. For now, improving the iOS and iPadOS experience remains a priority, and we will optimize the iPadOS experience while ensuring compatibility with macOS and release it when it is truly ready.
 
-## Are there file services than iCloud?
+## Are there file services other than iCloud?
 
 Taio currently supports iCloud Drive, and we are considering adding services like OneDrive or other commonly used cloud storage services. In addition, a WebDAV based file transfer method is also planned.
 
