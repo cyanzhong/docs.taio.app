@@ -1,4 +1,4 @@
-# FAQs
+# FAQ
 
 ## Is there a macOS app?
 
@@ -24,7 +24,7 @@ iOS has some restrictions on how often third-party widgets can be refreshed, ref
 
 ## Why doesn't iCloud sync work?
 
-We use system's iCloud Drive service directly, which means we can't interfere with the synchronization process too much. In many cases, iCloud Cloud service is affected by the network environment, so we ask that you try switching networks or be patient when you encounter problems.
+We use system's iCloud Drive service directly, which means we can't interfere with the synchronization process too much. In many cases, iCloud Cloud service is affected by the network environment, so we suggest that you try switching networks or be patient when you encounter problems.
 
 ## What's the pricing model?
 

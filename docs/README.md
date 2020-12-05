@@ -4,9 +4,9 @@ This document provides instructions, tips and tricks for getting started with th
 
 We will keep this documentation updated to accommodate changes to the app, please stay tuned for our [Release Notes](rn.md).
 
-## FAQs
+## FAQ
 
-Some questions are asked a lot, we have prepared a [FAQs](faq.md) list for them and will keep it updated in the future.
+Some questions are asked a lot, we have prepared a [FAQ](faq.md) list for them and will keep it updated in the future.
 
 ## Contact Us
 
