@@ -12,6 +12,7 @@
 - 文本动作
   - [基础知识](cn/actions/basics.md)
   - [动作分类](cn/actions/types.md)
+  - [控制流](cn/actions/control-flow.md)
   - [脚本编程](cn/actions/scripting.md)
 - 应用集成
   - [快捷指令](cn/integration/shortcuts.md)
