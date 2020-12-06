@@ -62,4 +62,4 @@ Taio 会自动提取文档中的各级标题，生成大纲视图，轻点标题
 - [Flowchart](https://flowchart.js.org/)
 - [Mermaid](https://mermaid-js.github.io/mermaid/#/)
 
-这些扩展可以让您在 Markdown 中高亮代码、显示数学公式和流程图等，请参考各自的文档获取更多信息。
+这些扩展可以让您在 Markdown 中高亮代码、显示数学公式和流程图等，查看[数学公式](cn/editor/math.md)和[绘制图标](cn/editor/diagrams.md)了解如何使用。请参考各自的文档获取更多信息。

@@ -7,6 +7,8 @@
 - 编辑器
   - [你好，Markdown](cn/editor/hello-markdown.md)
   - [进阶技巧](cn/editor/pro-tips.md)
+  - [数学公式](cn/editor/math.md)
+  - [绘制图表](cn/editor/diagrams.md)
 - 文本动作
   - [基础知识](cn/actions/basics.md)
   - [脚本编程](cn/actions/scripting.md)

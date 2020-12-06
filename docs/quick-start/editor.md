@@ -62,4 +62,4 @@ Before that, we have also built in some common syntax extensions for Taio:
 - [Flowchart](https://flowchart.js.org/)
 - [Mermaid](https://mermaid-js.github.io/mermaid/#/)
 
-These extensions allow you to highlight code, display math formulas, flowcharts and more in Markdown, please refer to their documentation for more information.
+These extensions allow you to highlight code, display math formulas, flowcharts and more in Markdown, see [Math Formulas](editor/math.md) and [Diagrams](editor/diagrams.md) for basic usage. Please refer to their documentation for more information.

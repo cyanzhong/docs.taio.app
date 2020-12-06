@@ -8,6 +8,8 @@
 - Editor
   - [Hello, Markdown](editor/hello-markdown.md)
   - [Pro Tips](editor/pro-tips.md)
+  - [Math Formulas](editor/math.md)
+  - [Diagrams](editor/diagrams.md)
 - Text Actions
   - [Basics](actions/basics.md)
   - [Scripting](actions/scripting.md)

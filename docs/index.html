@@ -55,7 +55,15 @@
             return 'Edit on GitHub';
           }
         }
-      )
+      ),
+      hook => {
+        hook.doneEach(() => {
+          if (typeof MathJax !== 'undefined') {
+            MathJax.Hub.Queue(["Typeset", MathJax.Hub]);
+          }
+          renderFlowcharts();
+        })
+      }
     ]
   }
 </script>
@@ -65,4 +73,12 @@
 <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-javascript.min.js"></script>
 <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-json.min.js"></script>
 <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-markdown.min.js"></script>
+<script async src="//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+<script src="//unpkg.com/raphael"></script>
+<script src="//unpkg.com/underscore"></script>
+<script src="//unpkg.com/docsify-sequence-diagram/dist/docsify-sequence-diagram.min.js"></script>
+<script src="//unpkg.com/mermaid/dist/mermaid.js"></script>
+<script src="//unpkg.com/docsify-mermaid@latest/dist/docsify-mermaid.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/flowchart/1.15.0/flowchart.min.js"></script>
+<script src="_plugin/render-diagrams.js"></script>
 </html>
