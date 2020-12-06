@@ -11,6 +11,7 @@
   - [绘制图表](cn/editor/diagrams.md)
 - 文本动作
   - [基础知识](cn/actions/basics.md)
+  - [动作分类](cn/actions/types.md)
   - [脚本编程](cn/actions/scripting.md)
 - 应用集成
   - [快捷指令](cn/integration/shortcuts.md)

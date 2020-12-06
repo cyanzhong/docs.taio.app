@@ -12,6 +12,7 @@
   - [Diagrams](editor/diagrams.md)
 - Text Actions
   - [Basics](actions/basics.md)
+  - [Types](actions/types.md)
   - [Scripting](actions/scripting.md)
 - App Integration
   - [Shortcuts](integration/shortcuts.md)
