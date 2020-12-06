@@ -13,6 +13,7 @@
 - Text Actions
   - [Basics](actions/basics.md)
   - [Types](actions/types.md)
+  - [Template Strings](actions/template-strings.md)
   - [Control Flow](actions/control-flow.md)
   - [Scripting](actions/scripting.md)
 - App Integration
