@@ -1,3 +1,8 @@
+# Build 100
+
+- Added: open linked files in preview
+- Fixed: file bookmark issues
+
 # Build 99
 
 - Fixed: file bookmark issues
