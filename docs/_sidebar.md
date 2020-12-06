@@ -15,6 +15,7 @@
   - [Types](actions/types.md)
   - [Template Strings](actions/template-strings.md)
   - [Control Flow](actions/control-flow.md)
+  - [Variables](actions/variables.md)
   - [Scripting](actions/scripting.md)
 - App Integration
   - [Shortcuts](integration/shortcuts.md)

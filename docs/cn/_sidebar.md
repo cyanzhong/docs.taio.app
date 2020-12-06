@@ -14,6 +14,7 @@
   - [动作分类](cn/actions/types.md)
   - [模板字符串](cn/actions/template-strings.md)
   - [控制流](cn/actions/control-flow.md)
+  - [变量](cn/actions/variables.md)
   - [脚本编程](cn/actions/scripting.md)
 - 应用集成
   - [快捷指令](cn/integration/shortcuts.md)
