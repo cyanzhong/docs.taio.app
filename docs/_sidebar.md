@@ -12,11 +12,11 @@
   - [Diagrams](editor/diagrams.md)
 - Text Actions
   - [Basics](actions/basics.md)
-  - [Types](actions/types.md)
+  - [Categories](actions/categories.md)
   - [Template Strings](actions/template-strings.md)
   - [Control Flow](actions/control-flow.md)
   - [Variables](actions/variables.md)
-  - [Scripting](actions/scripting.md)
+  - [Advanced Scripting](actions/scripting.md)
 - App Integration
   - [Shortcuts](integration/shortcuts.md)
   - [URL Schemes](integration/url-schemes.md)

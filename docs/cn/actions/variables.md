@@ -24,7 +24,7 @@
 
 ## 在脚本中使用变量
 
-通过动作模块定义的变量，也可以在 [JavaScript 脚本](cn/actions/scripting.md)中取出使用：
+通过动作模块定义的变量，也可以在 [JavaScript 脚本](cn/actions/scripting.md) 中取出使用：
 
 <img src="/cn/actions/assets/IMG_7.png" width="360" />
 

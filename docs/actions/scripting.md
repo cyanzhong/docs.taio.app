@@ -1,4 +1,4 @@
-# Scripting
+# Advanced Scripting
 
 Taio provides full-fledged support for running JavaScript in actions. More importantly, the JavaScript runtime is powered by the [JSBox app](https://apps.apple.com/us/app/id1312014438), which means you can use all modules provided by JSBox, such as creating **custom user interface**, accessing **calendars** and **reminders**, etc.
 

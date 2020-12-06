@@ -11,11 +11,11 @@
   - [绘制图表](cn/editor/diagrams.md)
 - 文本动作
   - [基础知识](cn/actions/basics.md)
-  - [动作分类](cn/actions/types.md)
+  - [动作分类](cn/actions/categories.md)
   - [模板字符串](cn/actions/template-strings.md)
   - [控制流](cn/actions/control-flow.md)
   - [变量](cn/actions/variables.md)
-  - [脚本编程](cn/actions/scripting.md)
+  - [进阶脚本编程](cn/actions/scripting.md)
 - 应用集成
   - [快捷指令](cn/integration/shortcuts.md)
   - [URL Schemes](cn/integration/url-schemes.md)

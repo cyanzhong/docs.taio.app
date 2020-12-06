@@ -1,4 +1,4 @@
-# 脚本编程
+# 进阶脚本编程
 
 Taio 提供了对运行 JavaScript 的全面支持。更重要的是，JavaScript 运行时由 [JSBox 应用](https://apps.apple.com/cn/app/id1312014438) 提供支持，这意味着您可以使用 JSBox 提供的所有模块，例如创建**自定义用户界面**、访问**日历**和**提醒事项**等。
 

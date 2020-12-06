@@ -1,4 +1,4 @@
-# Action Types
+# Action Categories
 
 Since the purpose of different tasks can be various, we have categorized the supported action blocks to facilitate a better search:
 
