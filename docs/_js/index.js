@@ -36,10 +36,10 @@ window.$docsify = {
     }),
     (hook, vm) => {
       hook.beforeEach(async(content, next) => {
-        const file = vm.route.file;
-        if (file.indexOf('editor/math.md') !== -1) {
+        const path = vm.route.path;
+        if (path.indexOf('/editor/math') !== -1) {
           await loadPlugin('mathjax/2.7.9/MathJax.js?config=TeX-MML-AM_CHTML');
-        } else if (file.indexOf('editor/diagrams.md') !== -1) {
+        } else if (path.indexOf('/editor/diagrams') !== -1) {
           const plugins = [
             'raphael/2.3.0/raphael.min.js',
             'underscore.js/1.11.0/underscore-min.js',
