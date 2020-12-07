@@ -19,6 +19,7 @@
   - [Advanced Scripting](actions/scripting.md)
 - App Integration
   - [Shortcuts](integration/shortcuts.md)
+  - [Working Copy](integration/working-copy.md)
   - [URL Schemes](integration/url-schemes.md)
 - Privacy & Terms
   - [Private Policy](privacy.md)
