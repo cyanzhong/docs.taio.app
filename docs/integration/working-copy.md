@@ -28,7 +28,7 @@ After linking a file bookmark, Taio can edit the file inside the Working Copy di
 
 <img src="/integration/assets/IMG_9.png" width="360" />
 
-**Manage Versions with Working Copy**.
+**Manage Versions with Working Copy**
 
 After making changes with Taio, you can go back to Working Copy to compare your changes and use Git for version control:
 
