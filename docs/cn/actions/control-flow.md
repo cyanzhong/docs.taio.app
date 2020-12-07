@@ -6,7 +6,7 @@
 
 默认的动作执行方式即为顺序执行，任务会从上至下一一执行：
 
-<img src="/cn/actions/assets/IMG_1.png" width="360" />
+<img src="/docs/cn/actions/assets/IMG_1.png" width="360" />
 
 若某个动作有输出，其结果会被传递下去，后续动作可以使用 `上个结果` 变量获取到。
 
@@ -14,7 +14,7 @@
 
 在很多时候我们需要选择性地执行一些任务，例如：
 
-<img src="/cn/actions/assets/IMG_2.png" width="360" />
+<img src="/docs/cn/actions/assets/IMG_2.png" width="360" />
 
 在这个例子里面，我们如果发现剪贴板内容是空，则显示信息后停止执行。
 
@@ -22,6 +22,6 @@
 
 有时候我们希望对一个任务反复执行，例如：
 
-<img src="/cn/actions/assets/IMG_3.png" width="360" />
+<img src="/docs/cn/actions/assets/IMG_3.png" width="360" />
 
 此例子将会弹出两次窗口。此外，Taio 也支持对数据的每一行重复运行同一个动作。

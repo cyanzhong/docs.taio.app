@@ -2,7 +2,7 @@
 
 We provide rich support for [Shortcuts](https://apps.apple.com/us/app/id915249334) integration, allowing you to integrate Taio's features into your familiar workflow:
 
-<img src="/integration/assets/IMG_1.png" width="360" />
+<img src="/docs/integration/assets/IMG_1.png" width="360" />
 
 The following is a quick introduction, for more information on how to use Shortcuts, please refer to the [user guide](https://support.apple.com/en-sg/guide/shortcuts/welcome/ios) provided by Apple.
 
@@ -10,7 +10,7 @@ The following is a quick introduction, for more information on how to use Shortc
 
 Other than specify the action name, you can also provide an input value:
 
-<img src="/integration/assets/IMG_2.png" width="360" />
+<img src="/docs/integration/assets/IMG_2.png" width="360" />
 
 It will open the Taio app and launch the specified actions.
 
@@ -18,7 +18,7 @@ It will open the Taio app and launch the specified actions.
 
 With a simple setup, you can save the clipboard content to Taio:
 
-<img src="/integration/assets/IMG_3.png" width="360" />
+<img src="/docs/integration/assets/IMG_3.png" width="360" />
 
 By leveraging home screen widgets supported by Shortcuts, you can do that without launching the app.
 
@@ -26,7 +26,7 @@ By leveraging home screen widgets supported by Shortcuts, you can do that withou
 
 This action returns saved clippings in Taio, you can specify pinned or not:
 
-<img src="/integration/assets/IMG_4.png" width="360" />
+<img src="/docs/integration/assets/IMG_4.png" width="360" />
 
 It returns a clipping list, you can handle them using list actions.
 
@@ -34,7 +34,7 @@ It returns a clipping list, you can handle them using list actions.
 
 Create a Taio document with text content, it can be saved to the device or iCloud Drive:
 
-<img src="/integration/assets/IMG_5.png" width="360" />
+<img src="/docs/integration/assets/IMG_5.png" width="360" />
 
 If the file path is invalid, it throws an error.
 
@@ -42,7 +42,7 @@ If the file path is invalid, it throws an error.
 
 Import any kind of files into Taio, such as photos:
 
-<img src="/integration/assets/IMG_6.png" width="360" />
+<img src="/docs/integration/assets/IMG_6.png" width="360" />
 
 If the file path is invalid, it throws an error.
 

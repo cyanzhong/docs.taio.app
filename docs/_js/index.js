@@ -51,7 +51,7 @@ window.$docsify = {
             await loadPlugin(src);
           }
         }
-        next(content);
+        next(content.replaceAll("src=\"/docs/", "src=\"/"));
       }),
       hook.doneEach(() => {
         renderMathJax();

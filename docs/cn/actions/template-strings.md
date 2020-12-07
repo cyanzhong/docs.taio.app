@@ -2,7 +2,7 @@
 
 模板字符串即动态文本内容，可以在静态文本内容中填充动态数据，例如当前时间、剪贴板，或是自定义的变量：
 
-<img src="/cn/actions/assets/IMG_4.png" width="360" />
+<img src="/docs/cn/actions/assets/IMG_4.png" width="360" />
 
 如图所示，模板字符串会在运行时动态生成。在动作模块里的文本，大多时候都是模板字符串。
 
@@ -10,10 +10,10 @@
 
 若需在模板字符串里面使用多行文本，直接输入换行符号即可，无需使用 `\n` 进行转义：
 
-<img src="/cn/actions/assets/IMG_5.png" width="360" />
+<img src="/docs/cn/actions/assets/IMG_5.png" width="360" />
 
 ## 快捷短语
 
-<img src="/cn/quick-start/assets/IMG_8.png" width="360" />
+<img src="/docs/cn/quick-start/assets/IMG_8.png" width="360" />
 
 快捷短语的本质也是模板字符串，它可以被动态地插入到当前的编辑区域。

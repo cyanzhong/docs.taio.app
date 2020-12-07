@@ -10,7 +10,7 @@
 
 Taio 的动作系统由一些最基本的 `动作块` 组成：
 
-<img src="/cn/quick-start/assets/IMG_14.png" width="360" />
+<img src="/docs/cn/quick-start/assets/IMG_14.png" width="360" />
 
 每个动作块代表一个任务，在执行完毕之后，将会结果传递给下一个任务继续执行，直到所有任务执行完毕。也可以设置一些条件来 `选择执行` 一些任务，或是 `重复执行` 部分任务，这和编程语言里面的 `控制流` 很像。
 
