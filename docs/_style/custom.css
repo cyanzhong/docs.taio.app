@@ -184,3 +184,10 @@ input {
   color: #5e6687;
   font-weight: normal;
 }
+
+.sequence svg, .flowchart svg, .mermaid svg {
+  background: white;
+  margin-bottom: 24px;
+  margin-right: 24px;
+  border-radius: 3px;
+}
