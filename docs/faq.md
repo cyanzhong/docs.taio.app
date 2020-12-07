@@ -12,7 +12,7 @@ Taio currently supports iCloud Drive, and we are considering adding services lik
 
 We are working on it, please stay tuned.
 
-## Why widgets are not interactive?
+## Why aren't widgets interactive?
 
 Due to system limitations, all third-party apps in iOS 14 are not interactive.
 
