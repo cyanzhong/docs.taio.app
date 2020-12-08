@@ -48,7 +48,7 @@ Taio has a full-fledged automation system, just like the Shortcuts app, but desi
 
 <img src="/docs/intro/IMG_10.png" />
 
-Other than chaining actions, action system supports defining variables, control flows, and even running JavaScript (powered by @JSBoxApp).
+Other than chaining actions, action system supports defining variables, control flows, and even running JavaScript (powered by [@JSBoxApp](https://twitter.com/JSBoxApp)).
 
 <img src="/docs/intro/IMG_11.png" />
 
