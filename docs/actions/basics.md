@@ -10,7 +10,7 @@ If you have used Shortcuts before, you should be comfortable with text actions i
 
 The actions system in Taio consists of some `action blocks`:
 
-<img src="/docs/quick-start/assets/IMG_14.png" width="360" />
+<img src="/quick-start/assets/IMG_14.png" width="360" />
 
 Each action block runs a task, and when it is executed, the result is passed to the next task to continue until all tasks are executed. You can also run some tasks `conditionally` or `repeatedly`, similar to `control-flows` in programming languages.
 

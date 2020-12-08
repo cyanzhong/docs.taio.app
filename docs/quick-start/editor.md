@@ -10,7 +10,7 @@ For more information on using the Markdown syntax, please check the in-app intro
 
 The editor toolbar brings convenience for using the Markdown format, supporting commonly used Markdown syntaxes, you don't need to input complex symbols by hand:
 
-<img src="/docs/quick-start/assets/IMG_5.png" width="360" />
+<img src="/quick-start/assets/IMG_5.png" width="360" />
 
 The toolbar intelligently determines the current selection, e.g., when the area where the cursor is a heading, you do not need to select the title precisely. Toggle bold after selecting a section of text and the bold symbol will wrap around the selected text. There are many more optimizations like this, and we encourage you to experiment and find out the best way for yourself.
 
@@ -18,7 +18,7 @@ The toolbar intelligently determines the current selection, e.g., when the area 
 
 In addition to `swiping left and right` to move the cursor position and `two-finger pinch` to adjust the size, you can also `triple tap` to quickly select the current paragraph:
 
-<img src="/docs/quick-start/assets/IMG_6.png" width="360" />
+<img src="/quick-start/assets/IMG_6.png" width="360" />
 
 The same operation can be done in other ways, but the convenient gestures make editing much more faster.
 
@@ -26,7 +26,7 @@ The same operation can be done in other ways, but the convenient gestures make e
 
 In contrast to the snippets feature supported by many other editors, Taio provides smarter snippets that can be dynamically filled, such as the current date or the clipboard:
 
-<img src="/docs/quick-start/assets/IMG_7.png" width="360" /> <img src="/docs/quick-start/assets/IMG_8.png" width="360" />
+<img src="/quick-start/assets/IMG_7.png" width="360" /> <img src="/quick-start/assets/IMG_8.png" width="360" />
 
 You are free to set snippets with the template text for more flexible and fast text insertion.
 
@@ -36,17 +36,17 @@ You are free to set snippets with the template text for more flexible and fast t
 
 Taio will automatically extract all levels of headings in the document, generate an outline view, tapping on the headings can quickly jump to the corresponding location in the document:
 
-<img src="/docs/quick-start/assets/IMG_9.png" width="360" />
+<img src="/quick-start/assets/IMG_9.png" width="360" />
 
 Tap the share button in the top left corner to export the document in a variety of common formats:
 
-<img src="/docs/quick-start/assets/IMG_10.png" width="360" />
+<img src="/quick-start/assets/IMG_10.png" width="360" />
 
 ## Text Actions
 
 Tap the ⚡️ button in the upper right corner to use actions in the editor:
 
-<img src="/docs/quick-start/assets/IMG_11.png" width="360" />
+<img src="/quick-start/assets/IMG_11.png" width="360" />
 
 > Pro Tip: If you're using an iPad, you can also do this with keyboard shortcuts (hold the ⌘ key to get a hint).
 

@@ -2,7 +2,7 @@
 
 因为处理任务的不同，我们对支持的动作模块进行了分类，方便更好地查找：
 
-<img src="/docs/cn/quick-start/assets/IMG_15.png" width="360" />
+<img src="/cn/quick-start/assets/IMG_15.png" width="360" />
 
 ## 文本
 
