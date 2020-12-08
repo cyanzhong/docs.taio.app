@@ -2,7 +2,7 @@
 
 Since the purpose of different tasks can be various, we have categorized the supported action blocks to facilitate a better search:
 
-<img src="/quick-start/assets/IMG_15.png" width="360" />
+<img src="../quick-start/assets/IMG_15.png" width="360" />
 
 ## Text
 

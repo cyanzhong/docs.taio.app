@@ -2,7 +2,7 @@
 
 之前提到，对于会产生输出的动作，其结果会被传递给之后的动作。但有时候我们会需要将一个值存起来，以备后续使用：
 
-<img src="/cn/actions/assets/IMG_4.png" width="360" />
+<img src="../cn/actions/assets/IMG_4.png" width="360" />
 
 上述例子中的 `Name` 就是一个变量，它可以在定义之后被取出使用。
 
@@ -10,7 +10,7 @@
 
 如果我们的动作比较简单，直接传递每个动作的输出结果可能是足够的。但很多时候我们可能需要处理多个输出，并对其中的一些值反复使用，这种时候我们就需要定义变量。
 
-<img src="/cn/actions/assets/IMG_6.png" width="360" />
+<img src="../cn/actions/assets/IMG_6.png" width="360" />
 
 如上图所示，我们实现一个将剪贴内容加工的流程。我们首先要知道当前的剪贴板是什么，然后基于它添加一些内容。在替换的时候，我们需要知道原始的剪贴板内容是什么，所以需要用到变量。
 
@@ -18,7 +18,7 @@
 
 除了自定义的变量外，Taio 也内置了一些变量：
 
-<img src="/cn/actions/assets/IMG_5.png" width="360" />
+<img src="../cn/actions/assets/IMG_5.png" width="360" />
 
 如图所示在键盘工具栏处，有 `上个结果`、`剪贴板`、`当前日期` 等变量，它们可以直接被使用。
 
@@ -26,6 +26,6 @@
 
 通过动作模块定义的变量，也可以在 [JavaScript 脚本](cn/actions/scripting.md) 中取出使用：
 
-<img src="/cn/actions/assets/IMG_7.png" width="360" />
+<img src="../cn/actions/assets/IMG_7.png" width="360" />
 
 上图展示在脚本中取出定义的变量，并更新它的值。
