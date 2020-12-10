@@ -2,7 +2,7 @@
 
 ## Terms of Service
 
-Thanks for using Taio, your support directly sustains the development. Taio has no venture capital or corporation backing it, we are trying to bring the best experience to users as a really small indie team:
+Thanks for using Taio, your support directly sustains the development. Taio has no venture capital or corporation backing it, we are trying to bring the best experience to users as a really small indie team.
 
 **Pricing**
 
