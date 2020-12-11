@@ -8,6 +8,12 @@ We will keep this documentation updated to accommodate changes to the app, pleas
 
 Some questions are asked a lot, we have prepared a [FAQ](faq.md) list for them and will keep it updated in the future.
 
+## Dev Notes
+
+Want to learn more about how do we build the app? We'd love to share!
+
+We have build a [website](https://dev.taio.app) for knowledge sharing, technical articles will be posted there.
+
 ## Contact Us
 
 Feel free to reach us out:
