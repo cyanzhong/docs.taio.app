@@ -1,3 +1,8 @@
+# Build 114
+
+- Added: toolbar items can be reordered
+- Added: quickly open links in the editor
+
 # Build 100
 
 - Added: open linked files in preview
