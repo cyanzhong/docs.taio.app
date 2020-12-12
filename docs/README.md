@@ -6,7 +6,7 @@ We will keep this documentation updated to accommodate changes to the app, pleas
 
 ## FAQ
 
-Some questions are asked a lot, we have prepared a [FAQ](faq.md) list for them and will keep it updated in the future.
+Some questions are asked a lot, we have prepared a [FAQ](faq.md) list for them and will keep it updated in future.
 
 ## Dev Notes
 

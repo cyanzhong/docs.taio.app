@@ -6,11 +6,11 @@ Thanks for using Taio, your support directly sustains the development. Taio has 
 
 **Pricing**
 
-Taio is still in the early stages of development and we do not charge you anything for this. You are welcome to use the full functionality of Taio and send us any feedbacks and suggestions you may have.
+Taio is still in the early stages of development and we do not charge you anything for this. You are welcome to use the full functionality of Taio and send us any feedbacks or suggestions you may have.
 
-Please note that we do not promise that all features will be free at any stage in the future. The features you are using may require purchase in subsequent versions.
+Eventually, some advanced features will need to be paid, while core features will remain free. Reasonable revenue allows us to make things better.
 
-Please don't worry, we do our best to find a balance between **maintaining the cost of development** and **providing the best user experience** so that everyone can enjoy using a high quality product and pay for something that is truly valuable to them.
+Don't worry, we will do our best to find a balance between **maintaining the cost of development** and **providing the best user experience** so that everyone can enjoy using a high quality product and pay for something that is truly valuable to them.
 
 **Refund**
 
