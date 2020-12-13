@@ -30,6 +30,14 @@ taio://clips?action=clear
 taio://editor?action=new
 ```
 
+Path and location can also be specified:
+
+```
+taio://editor?action=new&path=path&location=0
+```
+
+`location` 0: local files, 1: iCloud Drive files.
+
 ## Open A File in The Editor
 
 ```

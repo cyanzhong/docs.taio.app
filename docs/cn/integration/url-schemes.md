@@ -30,6 +30,14 @@ taio://clips?action=clear
 taio://editor?action=new
 ```
 
+也可以指定创建的位置和路径：
+
+```
+taio://editor?action=new&path=path&location=0
+```
+
+`location` 0：本地文件，1：iCloud 云盘文件。
+
 ## 在编辑器中打开文件
 
 ```
