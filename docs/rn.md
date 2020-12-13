@@ -1,3 +1,9 @@
+# Build 115
+
+- Fixed: several localization errors
+- Improved: better URL scheme for creating documents
+- Improved: paging for editor toolbar
+
 # Build 114
 
 - Added: toolbar items can be reordered
