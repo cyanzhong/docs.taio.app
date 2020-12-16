@@ -52,7 +52,7 @@ window.$docsify = {
           }
         }
         next(content);
-      }),
+      });
       hook.doneEach(() => {
         renderMathJax();
         renderDiagrams();
