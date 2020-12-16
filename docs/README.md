@@ -12,7 +12,7 @@ Some questions are asked a lot, we have prepared a [FAQ](faq.md) list for them a
 
 Want to learn more about how do we build the app? We'd love to share!
 
-We have build a [website](https://dev.taio.app) for knowledge sharing, technical articles will be posted there.
+We have built a [website](https://dev.taio.app) for knowledge sharing, technical articles will be posted there.
 
 ## Contact Us
 
