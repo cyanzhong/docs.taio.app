@@ -1,3 +1,8 @@
+# Build 125
+
+- Added: new option to enable full screen mode
+- Added: syntax highlighting for common programming languages
+
 # Build 115
 
 - Fixed: several localization errors
