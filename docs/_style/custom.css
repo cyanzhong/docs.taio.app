@@ -180,3 +180,7 @@ input {
   margin-right: 24px;
   border-radius: 3px;
 }
+
+pre::after {
+  content: "";
+}
