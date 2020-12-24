@@ -1,3 +1,9 @@
+# Build 133
+
+- Fixed: file bookmarks will be revoked periodically
+- Fixed: inserted images won't be same order as selected
+- Improved: large files won't be saved as recently opened
+
 # Build 125
 
 - Added: new option to enable full screen mode
