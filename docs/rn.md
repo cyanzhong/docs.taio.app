@@ -1,3 +1,9 @@
+# Build 134
+
+- Added: document picker
+- Added: smart punctuation can be disabled
+- Improved: auto completion for nested lists
+
 # Build 133
 
 - Fixed: file bookmarks will be revoked periodically
