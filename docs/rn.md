@@ -1,3 +1,7 @@
+# Build 145
+
+- Added: local image picker for image insertion
+
 # Build 134
 
 - Added: document picker
