@@ -6,6 +6,10 @@ Essentially, it makes Taio more extensible by introducing a "[Shortcuts](https:/
 
 If you have used Shortcuts before, you should be comfortable with text actions in Taio.
 
+## Actions Directory
+
+In order to provide more examples regarding creating actions in Taio, we have built [actions directory](https://actions.taio.app) for it.
+
 ## Basic Concepts
 
 The actions system in Taio consists of some `action blocks`:
