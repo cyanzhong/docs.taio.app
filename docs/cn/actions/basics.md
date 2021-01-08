@@ -8,7 +8,7 @@
 
 ## 动作目录
 
-为了提供更多在 Taio 创建动作的例子，我们搭建了 [actions directory](https://actions.taio.app) 网站。
+为了提供更多在 Taio 创建动作的例子，我们搭建了 [actions directory](https://actions.taio.app/#/cn/) 网站。
 
 ## 基本概念
 
