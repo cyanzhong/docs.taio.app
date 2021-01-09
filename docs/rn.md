@@ -1,3 +1,9 @@
+# Build 155
+
+- Added: add actions from directory
+- Added: base64 options for text encoding action
+- Improved: open RTF files with quick look
+
 # Build 145
 
 - Added: local image picker for image insertion
