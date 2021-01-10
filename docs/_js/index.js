@@ -1,4 +1,5 @@
 window.$docsify = {
+  themeColor: '#ff9500',
   alias: {
     '/((?!cn).)*/_sidebar.md': '/_sidebar.md',
     '/((?!cn).)*/_navbar.md': '/_navbar.md',
