@@ -1,3 +1,12 @@
+# Build 157
+
+- Added: new option to hide file size
+- Added: new option to hide hidden files
+- Fixed: bug when using external keyboard on iPhone
+- Improved: word counter now takes selected text into account
+- Improved: some glyphs have been refreshed
+- Improved: better performance for syntax highlighting
+
 # Build 155
 
 - Added: add actions from directory
