@@ -1,3 +1,9 @@
+# Build 166
+
+- Added: new option to open files in preview by default
+- Added: clipboard image can be inserted into text area
+- Improved: edits made by text actions can be undone
+
 # Build 157
 
 - Added: new option to hide file size
