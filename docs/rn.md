@@ -1,5 +1,6 @@
-# Build 166
+# Build 167
 
+- Added: options for Markdown rendering
 - Added: new option to open files in preview by default
 - Added: clipboard image can be inserted into text area
 - Improved: edits made by text actions can be undone
