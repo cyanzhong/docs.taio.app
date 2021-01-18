@@ -1,6 +1,6 @@
 # Hello, Markdown
 
-Markdown is popular format for writing documents, aims to achieve common formats using simple syntax.
+Markdown is a popular format for writing documents, aims to achieve common formats using simple syntax.
 
 Instead of explaining everything, which makes beginners scared, this doc wanted to show you commonly used features in 5 minutes.
 
