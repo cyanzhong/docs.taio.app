@@ -1,3 +1,8 @@
+# Build 172
+
+- Added: wikilinks and backlinks
+- Fixed: unable to open HTML files
+
 # Build 168
 
 - Added: move lines up/down using keyboard shortcuts
