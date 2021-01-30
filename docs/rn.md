@@ -1,3 +1,11 @@
+# Build 183
+
+- Added: drag & drop to insert images
+- Added: insert table of contents
+- Added: snippets now supports dynamic cursor position
+- Added: new action variable to insert special characters
+- Added: new text action to generate UUID
+
 # Build 172
 
 - Added: wikilinks and backlinks
