@@ -6,15 +6,19 @@ Thanks for using Taio, your support directly sustains the development. Taio has 
 
 **Pricing**
 
-Taio is still in the early stages of development and we do not charge you anything for this. You are welcome to use the full functionality of Taio and send us any feedbacks or suggestions you may have.
+Taio's core features, such as clipboard management and Markdown editor, are free. We also offer **Taio Pro** edition, designed to meet the needs of professional users for more customization while maintaining our development efforts.
 
-Eventually, some advanced features will need to be paid, while core features will remain free. Reasonable revenue allows us to make things better.
+Taio Pro offers a variety of pricing strategies to fit different situations, such as monthly subscriptions, annual subscriptions, or one-time payment for lifetime premium, with **full functionality** free trials for subscription models.
 
-Don't worry, we will do our best to find a balance between **maintaining the cost of development** and **providing the best user experience** so that everyone can enjoy using a high quality product and pay for something that is truly valuable to them.
+Currently, Taio Pro is in the `Launch Offer` stage, with discounts on both annual subscriptions and lifetime plan relative to the final price. In addition, we are offering a further `Early Bird` price for existing users who have downloaded earlier versions (v1.12.0 and earlier).
+
+It is also worth mentioning that with subscription models, the discounted price you use will be kept in the renewal and will not increase with subsequent product price increases.
+
+If you are interested, please find out more on our [website](https://taio.app/#pricing), thanks for your support.
 
 **Refund**
 
-It is upset to hear that you want to refund, please [contact us](mailto:hi@taio.app) for your complaints first, but we do respect your choice. However, developers are not responsible for refunds, you are encouraged to contact Apple Support Team directly, some information could be found [here](https://support.apple.com/en-us/HT204084).
+We are sorry to hear that you want to refund, please [contact us](mailto:hi@taio.app) for your complaints first, but we do respect your choice. However, developers are not responsible for refunds, you are encouraged to contact Apple Support Team directly, some information could be found [here](https://support.apple.com/en-us/HT204084).
 
 **Changes to This Terms of Service**
 
