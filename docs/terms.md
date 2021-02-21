@@ -16,6 +16,12 @@ It is also worth mentioning that with subscription models, the discounted price 
 
 If you are interested, please find out more on our [website](https://taio.app/#pricing), thanks for your support.
 
+**Service Availability**
+
+When you use the same Apple ID on multiple devices, please follow the device limitations mentioned in the official ["Apple Media Services Terms and Conditions"](https://www.apple.com/legal/internet-services/itunes/us/terms.html) file.
+
+We reserve the right to address serious violations of these terms, including, but not limited to, removal of unlocked content.
+
 **Refund**
 
 We are sorry to hear that you want to refund, please [contact us](mailto:hi@taio.app) for your complaints first, but we do respect your choice. However, developers are not responsible for refunds, you are encouraged to contact Apple Support Team directly, some information could be found [here](https://support.apple.com/en-us/HT204084).

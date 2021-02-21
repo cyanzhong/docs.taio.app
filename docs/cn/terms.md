@@ -16,6 +16,12 @@ Taio 高级版提供多种定价策略以适应不同的需求，例如按月订
 
 如果您感兴趣，请在我们的[官网](https://taio.app/cn/#pricing)了解更多，感谢支持。
 
+**服务可用性**
+
+当您在多台设备上使用同一 Apple ID 时，请遵循 Apple 官方在[《Apple 媒体服务条款和条件》](https://www.apple.com/legal/internet-services/itunes/cn/terms.html)文件中提到的设备数量要求。
+
+我们保留对严重违反该条款的处理权利，包括但不限于移除已解锁的内容。
+
 **退款**
 
 如果您有这样的想法，我们感到很遗憾，所以请优先考虑通过[联系我们](mailto:hi@taio.app)来解决您不满的地方，但我们始终尊重您的选择。然而，iOS 应用的退款流程并不受开发者掌控，所以我们建议您联系 Apple 的支持团队来处理退款，您可以在[这里](https://support.apple.com/zh-cn/HT204084)找到相关信息。
