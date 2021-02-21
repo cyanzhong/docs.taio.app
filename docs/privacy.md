@@ -4,6 +4,12 @@ Taio is a text processing system for iOS that supports the use of custom actions
 
 This privacy policy applies to the iOS main app itself, its embedded frameworks and app extensions, and official examples we provided, but obviously not to actions that you, the user, create yourself. Especially when using networking APIs, please be aware that other terms (of the API service provider) may apply.
 
+**Purchases**
+
+As we mentioned in [pricing strategy](terms.md), Taio Pro offers a higher discount for early supporters, achieved by accessing the app's purchase items.
+
+This information, which includes subscribed or paid in-app purchases, etc., is anonymous and unrelated to the user's identity, and Taio uses only the `initial download date` in it to determine if it is an early supporter.
+
 **Accessing Clipboard**
 
 Will your clipboard be read secretly, without letting you know?
