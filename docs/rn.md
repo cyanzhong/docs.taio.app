@@ -1,3 +1,13 @@
+# Build 243
+
+- Added: [^footnote] support
+- Added: assets folder name can be configured
+- Added: URL scheme to append text to a file
+- Added: URL scheme to open a folder
+- Added: wikilink search takes file bookmarks into account
+- Fixed: several UI issues
+- Improved: HTML rendering styles
+
 # Build 183
 
 - Added: drag & drop to insert images
