@@ -46,6 +46,8 @@ taio://editor?action=open&path=path&location=0
 
 `location` 0: local files, 1: iCloud Drive files.
 
+It opens the folder in file explorer when `path` is a folder.
+
 ## Append Text to File
 
 ```

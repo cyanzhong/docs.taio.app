@@ -46,6 +46,8 @@ taio://editor?action=open&path=path&location=0
 
 `location` 0：本地文件，1：iCloud 云盘文件。
 
+当 `path` 是目录时，将在文件管理器中打开该目录。
+
 ## 追加内容到文件
 
 ```
