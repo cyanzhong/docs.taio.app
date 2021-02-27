@@ -46,6 +46,16 @@ taio://editor?action=open&path=path&location=0
 
 `location` 0：本地文件，1：iCloud 云盘文件。
 
+## 追加内容到文件
+
+```
+taio://editor?action=append&path=path&location=0&text=text
+```
+
+`location` 0：本地文件，1：iCloud 云盘文件。
+
+文件不存在时将会自动创建。
+
 ## 导入动作
 
 ```

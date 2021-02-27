@@ -46,6 +46,16 @@ taio://editor?action=open&path=path&location=0
 
 `location` 0: local files, 1: iCloud Drive files.
 
+## Append Text to File
+
+```
+taio://editor?action=append&path=path&location=0&text=text
+```
+
+`location` 0: local files, 1: iCloud Drive files.
+
+The file will be created automatically if it does not exist.
+
 ## Import Actions
 
 ```
