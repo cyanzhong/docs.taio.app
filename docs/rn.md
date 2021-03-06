@@ -1,3 +1,10 @@
+# Build 246
+
+- Added: new shortcut to list folder contents
+- Added: file without an extension can be created
+- Fixed: line break to <br /> not working
+- Improved: file extension can be changed
+
 # Build 243
 
 - Added: [^footnote] support
