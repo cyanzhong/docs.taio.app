@@ -1,3 +1,7 @@
+# Build 250
+
+- Improved: significantly improved Markdown rendering performance
+
 # Build 246
 
 - Added: new shortcut to list folder contents
