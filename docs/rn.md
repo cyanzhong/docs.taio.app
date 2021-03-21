@@ -1,3 +1,10 @@
+# Build 272
+
+- More built-in text actions
+- Markdown preview will be updated automatically
+- Minor UI fixes and improvements
+- Inline math option for Markdown preview
+
 # Build 250
 
 - Improved: significantly improved Markdown rendering performance
