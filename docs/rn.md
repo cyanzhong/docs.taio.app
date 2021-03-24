@@ -1,3 +1,10 @@
+# Build 285
+
+- Added: export as RTF
+- Fixed: some files cannot be opened as plain text
+- Fixed: a footnotes related crash
+- Improved: syntax highlighting performance
+
 # Build 272
 
 - More built-in text actions
