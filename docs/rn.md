@@ -1,3 +1,14 @@
+# Build 303
+
+- Added: export as docx
+- Added: new action to find substring location
+- Added: new built-in action variable to get text in selected line
+- Fixed: running if-else block inside a forEach action
+- Fixed: front matter header detection
+- Fixed: top crashes
+- Fixed: minor issues on iOS 13
+- Improved: more accessibility support
+
 # Build 285
 
 - Added: export as RTF
