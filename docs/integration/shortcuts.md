@@ -6,6 +6,8 @@ We provide rich support for [Shortcuts](https://apps.apple.com/us/app/id91524933
 
 The following is a quick introduction, for more information on how to use Shortcuts, please refer to the [user guide](https://support.apple.com/en-sg/guide/shortcuts/welcome/ios) provided by Apple.
 
+To use iOS built-in accessibility features, such as "Back Tap", please refer to the [tutorial](https://support.apple.com/en-us/HT211781) provided by Apple.
+
 ## Run Actions
 
 Other than specify the action name, you can also provide an input value:

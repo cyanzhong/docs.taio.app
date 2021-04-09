@@ -6,6 +6,8 @@
 
 下面简单介绍几个使用场景，更多关于快捷指令的使用方法，请参考 Apple 提供的[使用手册](https://support.apple.com/zh-cn/guide/shortcuts/welcome/ios)。
 
+如需使用 iOS 内建的辅助功能，例如“轻点背面”，请参考 Apple 提供的[教程](https://support.apple.com/zh-cn/HT211781)。
+
 ## 运行动作
 
 可以设定需要运行的动作，并可以指定输入参数：
