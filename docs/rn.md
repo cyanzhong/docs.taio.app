@@ -1,3 +1,11 @@
+# Build 312
+
+- Added: editor now shows more text styles
+- Added: install actions by opening files
+- Added: checkboxes in preview mode can be tapped
+- Fixed: crash when searching empty actions folder
+- Improved: front matter detection
+
 # Build 303
 
 - Added: export as docx
