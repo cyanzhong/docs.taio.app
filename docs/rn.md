@@ -1,3 +1,13 @@
+# Build 322
+
+- Added: brand new default themes (classic ones are kept)
+- Added: global tint color is now configurable
+- Added: new SynthWave '84 theme for editor
+- Fixed: several reported issues
+- Improved: editor UI now fits themes
+- Improved: several performance issues
+- Improved: smart punctuation is now turned off by default
+
 # Build 312
 
 - Added: editor now shows more text styles
