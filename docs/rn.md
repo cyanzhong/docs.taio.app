@@ -1,3 +1,10 @@
+# Build 342
+
+- Added: graph view for links
+- Fixed: front-matter detection
+- Improved: performance when searching files
+- Improved: experience when using trackpad
+
 # Build 322
 
 - Added: brand new default themes (classic ones are kept)
