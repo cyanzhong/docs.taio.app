@@ -48,6 +48,16 @@ taio://editor?action=open&path=path&location=0
 
 It opens the folder in file explorer when `path` is a folder.
 
+## Open A File in Preview Mode
+
+For Markdown files, you can open them in preview mode by replacing `.md` suffix with `.html`:
+
+```
+taio://editor?action=open&path=Example.html&location=0
+```
+
+Other parameters work the same way.
+
 ## Append Text to File
 
 ```

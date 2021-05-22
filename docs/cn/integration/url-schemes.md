@@ -48,6 +48,16 @@ taio://editor?action=open&path=path&location=0
 
 当 `path` 是目录时，将在文件管理器中打开该目录。
 
+## 在预览模式下打开文件
+
+对于 Markdown 文件，可以用 `.html` 代替 `.md` 后缀在预览模式下打开它们：
+
+```
+taio://editor?action=open&path=Example.html&location=0
+```
+
+其他参数的工作方式相同。
+
 ## 追加内容到文件
 
 ```
