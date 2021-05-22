@@ -44,7 +44,7 @@ taio://editor?action=new&path=path&location=0
 taio://editor?action=open&path=path&location=0
 ```
 
-`location` 0：本地文件，1：iCloud 云盘文件。
+`location` 0：本地文件，1：iCloud 云盘文件，2: 添加的外部位置。
 
 当 `path` 是目录时，将在文件管理器中打开该目录。
 
@@ -64,7 +64,7 @@ taio://editor?action=open&path=Example.html&location=0
 taio://editor?action=append&path=path&location=0&text=text
 ```
 
-`location` 0：本地文件，1：iCloud 云盘文件。
+`location` 0：本地文件，1：iCloud 云盘文件，2: 添加的外部位置。
 
 文件不存在时将会自动创建。
 

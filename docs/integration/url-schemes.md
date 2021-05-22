@@ -44,7 +44,7 @@ taio://editor?action=new&path=path&location=0
 taio://editor?action=open&path=path&location=0
 ```
 
-`location` 0: local files, 1: iCloud Drive files.
+`location` 0: local files, 1: iCloud Drive files, 2: Added external locations.
 
 It opens the folder in file explorer when `path` is a folder.
 
@@ -64,7 +64,7 @@ Other parameters work the same way.
 taio://editor?action=append&path=path&location=0&text=text
 ```
 
-`location` 0: local files, 1: iCloud Drive files.
+`location` 0: local files, 1: iCloud Drive files, 2: Added external locations.
 
 The file will be created automatically if it does not exist.
 
