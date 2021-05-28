@@ -1,3 +1,17 @@
+# Build 353
+
+- Added: real-time cursor position, navigating to line number
+- Added: URL scheme now supports opening added locations
+- Added: support for importing a folder to Taio
+- Added: characters for bold and italic are configurable
+- Fixed: minor issues on Japanese Magic Keyboard
+- Fixed: footnote fails to show in certain conditions
+- Fixed: screen won't go sleep when using the editor
+- Improved: ![[File]] can be inline previewed
+- Improved: better syntax highlighting performance
+- Improved: better experience when editing clips on iPad
+- Improved: better toolbar layout in landscape mode
+
 # Build 342
 
 - Added: graph view for links
