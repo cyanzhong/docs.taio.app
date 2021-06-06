@@ -10,6 +10,7 @@
   - [Pro Tips](editor/pro-tips.md)
   - [Math Formulas](editor/math.md)
   - [Diagrams](editor/diagrams.md)
+  - [Keyboard Shortcuts](editor/cheatsheet.md)
 - Text Actions
   - [Basics](actions/basics.md)
   - [Categories](actions/categories.md)

@@ -9,6 +9,7 @@
   - [进阶技巧](cn/editor/pro-tips.md)
   - [数学公式](cn/editor/math.md)
   - [绘制图表](cn/editor/diagrams.md)
+  - [键盘快捷键](cn/editor/cheatsheet.md)
 - 文本动作
   - [基础知识](cn/actions/basics.md)
   - [动作分类](cn/actions/categories.md)
