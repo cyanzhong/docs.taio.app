@@ -4,6 +4,9 @@ table {
   display: table !important;
 }
 </style>
+
+> 在 iPad 上，您也可以长按 `⌘` 键来显示所有键盘快捷键。
+
 **页面导航**
 
 | 动作 | 快捷键 |

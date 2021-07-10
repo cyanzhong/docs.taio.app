@@ -4,6 +4,9 @@ table {
   display: table !important;
 }
 </style>
+
+> On iPad, you can also long press the `⌘` key to show all keyboard shortcuts.
+
 **Navigation**
 
 | Action                  | Key      |
