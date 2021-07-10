@@ -94,6 +94,8 @@ taio://actions?action=import&data=clipboard
 taio://actions?action=run&name=name&input=input
 ```
 
+If `input` is passed in as an input parameter, it can be retrieved by the `Last Value` variable.
+
 ## URL Encoding
 
 Note that, URL parameters should be URL encoded, for example:

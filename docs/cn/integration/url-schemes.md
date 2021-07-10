@@ -94,6 +94,8 @@ taio://actions?action=import&data=clipboard
 taio://actions?action=run&name=name&input=input
 ```
 
+提供 `input` 作为输入参数时，可通过 `上个结果` 变量获取。
+
 ## URL 编码
 
 请注意，URL 参数都需要经过 URL 编码，例如：
