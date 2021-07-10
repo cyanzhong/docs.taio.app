@@ -14,6 +14,10 @@ Taio 提供的编辑器 100% 实现了 [CommonMark](https://commonmark.org/) 和
 
 工具栏会智能地判断当前的选中区域，例如：光标所在区域是一个标题时，您无需精确地选中这个标题。选中一段文本后按加粗，加粗符号会将选中的文本包裹住。诸如此类的优化还有很多，我们鼓励您多尝试，获得最适合自己的使用方法。
 
+在 Mac 上，当您选中一些文本或点击编辑区时，工具栏会动态显示：
+
+<img src="../cn/quick-start/assets/IMG_18.png" width="540" />
+
 ## 手势操作
 
 除了通过 `左右滑动` 来移动光标位置、`双指缩放` 来调节大小以外，您还可以通过 `轻点屏幕三下` 来快速选中当前的段落：
@@ -27,6 +31,10 @@ Taio 提供的编辑器 100% 实现了 [CommonMark](https://commonmark.org/) 和
 相比于很多编辑器支持的快捷短语，Taio 提供可被动态配置的短语内容，例如当前的日期或是剪贴板：
 
 <img src="../cn/quick-start/assets/IMG_7.png" width="360" /> <img src="../cn/quick-start/assets/IMG_8.png" width="360" />
+
+在 Mac 上，您可以右击鼠标来插入片段：
+
+<img src="../cn/quick-start/assets/IMG_19.png" width="540" />
 
 您可以自由地通过模板文本设置快捷短语，来实现更灵活的快速文本插入。
 

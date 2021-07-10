@@ -22,6 +22,12 @@ In addition to user-defined variables, Taio also has a number of built-in variab
 
 At the keyboard toolbar, there are variables such as `Last Result`, `Clipboard`, `Current Date`, etc., which can be used directly without defining.
 
+## Using Variables on Mac
+
+On Mac, there's no toolbar to insert variables. Instead, you can right click the mouse to do that:
+
+<img src="../actions/assets/IMG_8.png" width="720" />
+
 ## Using Variables in JavaScript
 
 Variables defined by the action blocks can also be retrieved and used in [JavaScript](actions/scripting.md):

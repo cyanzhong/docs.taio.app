@@ -14,6 +14,10 @@ The editor toolbar brings convenience for using the Markdown format, supporting 
 
 The toolbar intelligently determines the current selection, e.g., when the area where the cursor is a heading, you do not need to select the title precisely. Toggle bold after selecting a section of text and the bold symbol will wrap around the selected text. There are many more optimizations like this, and we encourage you to experiment and find out the best way for yourself.
 
+On Mac, the toolbar shows dynamically when you select some text, or click on the editing area:
+
+<img src="../quick-start/assets/IMG_18.png" width="540" />
+
 ## Gestures
 
 In addition to `swiping left and right` to move the cursor position and `two-finger pinch` to adjust the size, you can also `triple tap` to quickly select the current paragraph:
@@ -27,6 +31,10 @@ The same operation can be done in other ways, but the convenient gestures make e
 In contrast to the snippets feature supported by many other editors, Taio provides smarter snippets that can be dynamically filled, such as the current date or the clipboard:
 
 <img src="../quick-start/assets/IMG_7.png" width="360" /> <img src="../quick-start/assets/IMG_8.png" width="360" />
+
+On Mac, you can right-click the mouse to insert snippets:
+
+<img src="../quick-start/assets/IMG_19.png" width="540" />
 
 You are free to set snippets with the template text for more flexible and fast text insertion.
 

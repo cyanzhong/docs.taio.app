@@ -1,3 +1,5 @@
+> On Mac, TextExpander can be integrated to the system, it doesn't require any settings in Taio.
+
 # TextExpander
 
 Taio has built-in support for [text snippets](editor/pro-tips?id=text-snippets), which allows you to quickly insert predefined text. If this feature does not meet your needs, or if you are already a [TextExpander](https://textexpander.com/) user, you can also use TextExpander snippets in Taio.
