@@ -18,6 +18,7 @@ table {
 | New Tab                 | ⌘ T      |
 | Next Tab                | ⌘ ⌥ →    |
 | Previous Tab            | ⌘ ⌥ ←    |
+| Reveal in Explorer      | ⌘ ⇧ J    |
 | Find in Document        | ⌘ F      |
 | Show Outline            | ⌘ ⌥ O    |
 | Toggle Preview          | ⌘ P      |
