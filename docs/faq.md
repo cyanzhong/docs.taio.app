@@ -2,7 +2,7 @@
 
 ## Is there a macOS app?
 
-Thank you for your interest in Taio. We are working on a macOS version, but will not be releasing it soon. For now, improving the iOS and iPadOS experience remains a priority, and we will optimize the iPadOS experience while ensuring compatibility with macOS and release it when it is truly ready.
+Yes, we are testing the macOS app, learn more at https://taio.app/mac
 
 ## Are there file services other than iCloud?
 
@@ -14,13 +14,13 @@ We are working on it, please stay tuned.
 
 ## Why aren't widgets interactive?
 
-Due to system limitations, all third-party apps in iOS 14 are not interactive.
+Due to system limitations, all third-party apps in iOS 14 and macOS 11 are not interactive.
 
 However, Taio provides full support for Shortcuts, by leveraging its widgets, you can save data without opening the app. Please refer to our [guides](integration/shortcuts.md) to set it up if necessary.
 
 ## Why isn't the widget updating?
 
-iOS has some restrictions on how often third-party widgets can be refreshed, refreshes are strictly budgeted. There is no perfect solution to work around this issue, please try it again later, thanks for your understanding.
+There are some restrictions on how often third-party widgets can be refreshed, refreshes are strictly budgeted. There is no perfect solution to work around this issue, please try it again later, thanks for your understanding.
 
 ## Why doesn't iCloud sync work?
 

@@ -1,8 +1,8 @@
 ## Privacy Policy
 
-Taio is a text processing system for iOS that supports the use of custom actions to implement text workflows.
+Taio is a text processing system for iOS and macOS that supports the use of custom actions to implement text workflows.
 
-This privacy policy applies to the iOS main app itself, its embedded frameworks and app extensions, and official examples we provided, but obviously not to actions that you, the user, create yourself. Especially when using networking APIs, please be aware that other terms (of the API service provider) may apply.
+This privacy policy applies to the main app itself, its embedded frameworks and app extensions, and official examples we provided, but obviously not to actions that you, the user, create yourself. Especially when using networking APIs, please be aware that other terms (of the API service provider) may apply.
 
 **Purchases**
 
