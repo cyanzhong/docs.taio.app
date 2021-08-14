@@ -46,6 +46,7 @@ table {
 
 | Action                  | Key      |
 | :---------------------- | -------: |
+| Save File               | ⌘ S      |
 | Move Lines Up           | ⌘ ⌥ ↑    |
 | Move Lines Down         | ⌘ ⌥ ↓    |
 | Left Indent             | ⌘ [      |
