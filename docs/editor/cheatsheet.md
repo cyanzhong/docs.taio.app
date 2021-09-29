@@ -56,6 +56,7 @@ table {
 
 | Action                  | Key      |
 | :---------------------- | -------: |
+| Soft Break              | ⇧ ↵      |
 | Insert Link             | ⌘ K      |
 | Open Link/File          | ⌘ ⇧ O    |
 | Insert Code Block       | ⌘ ⇧ C    |
