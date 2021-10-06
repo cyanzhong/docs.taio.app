@@ -12,6 +12,7 @@ table {
 | Action                  | Key      |
 | :---------------------- | -------: |
 | Show/Hide sidebar       | ⌘ E      |
+| Toggle Minimal Editor   | ⌃ ⇧ M    |
 | Open Files              | ⌘ O      |
 | Close File              | ⌘ W      |
 | New File                | ⌘ N      |
