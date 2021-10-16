@@ -24,6 +24,8 @@ With a simple setup, you can save the clipboard content to Taio:
 
 By leveraging home screen widgets supported by Shortcuts, you can do that without launching the app.
 
+> Note that, on some versions of iOS (E.g., iOS 15.0), the built-in "Clipboard" variable doesn't work. You will see an error, and you can use the "Get Clipboard" action to work it around. This issue is reported to be fixed in iOS 15.1.
+
 ## Get Clippings
 
 This action returns saved clippings in Taio, you can specify pinned or not:
