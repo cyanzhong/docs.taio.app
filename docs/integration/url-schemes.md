@@ -16,6 +16,12 @@ taio://clips?action=save
 taio://clips?action=copy&text=text
 ```
 
+## Create New Clipping
+
+```
+taio://clips?action=new
+```
+
 ## Clear All Clips
 
 ```

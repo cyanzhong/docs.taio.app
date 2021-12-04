@@ -16,6 +16,12 @@ taio://clips?action=save
 taio://clips?action=copy&text=text
 ```
 
+## 创建剪贴内容
+
+```
+taio://clips?action=new
+```
+
 ## 清除剪贴内容
 
 ```
