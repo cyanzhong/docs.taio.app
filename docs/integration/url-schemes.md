@@ -64,6 +64,12 @@ taio://editor?action=open&path=Example.html&location=0
 
 Other parameters work the same way.
 
+## Open Quick Drafts
+
+```
+taio://drafts
+```
+
 ## Append Text to File
 
 ```

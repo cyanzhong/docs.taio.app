@@ -64,6 +64,12 @@ taio://editor?action=open&path=Example.html&location=0
 
 其他参数的工作方式相同。
 
+## 打开快捷草稿
+
+```
+taio://drafts
+```
+
 ## 追加内容到文件
 
 ```
