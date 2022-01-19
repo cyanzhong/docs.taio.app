@@ -10,7 +10,7 @@ Taio's core features, such as clipboard management and Markdown editor, are free
 
 Taio Pro offers a variety of pricing strategies to fit different situations, such as monthly subscriptions, annual subscriptions, or one-time payment for lifetime premium, with **full functionality** free trials for subscription models. In addition, we are offering a further `Early Bird` price for existing users who have downloaded earlier versions (v1.12.0 and earlier).
 
-It is also worth mentioning that with subscription models, the discounted price you use will be kept in the renewal and will not increase with subsequent product price increases.
+It is also worth mentioning that with subscription models, the discounted price you use will be kept in the renewal and will not increase with subsequent product price increases. Also, lifetime plan works for all future updates, including major ones.
 
 If you are interested, please find out more on our [website](https://taio.app/#pricing), thanks for your support.
 
