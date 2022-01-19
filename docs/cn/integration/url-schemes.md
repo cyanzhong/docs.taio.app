@@ -80,6 +80,8 @@ taio://editor?action=append&path=path&location=0&text=text
 
 文件不存在时将会自动创建。
 
+与此类似地，若使用参数 `action=overwrite`，则上述文本文件会被覆盖，不会被追加。
+
 ## 导入动作
 
 ```
