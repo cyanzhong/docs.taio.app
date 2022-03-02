@@ -194,3 +194,11 @@ input {
 pre::after {
   content: "";
 }
+
+.bordered_img {
+  display: block;
+  width: 360px;
+  margin-bottom: 15px;
+  border: solid 1px #ccc;
+  border-radius: 6px;
+}

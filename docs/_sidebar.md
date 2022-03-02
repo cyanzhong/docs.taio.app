@@ -8,6 +8,7 @@
 - Editor
   - [Hello, Markdown](editor/hello-markdown.md)
   - [Pro Tips](editor/pro-tips.md)
+  - [Tags](editor/tags.md)
   - [Math Formulas](editor/math.md)
   - [Diagrams](editor/diagrams.md)
   - [Keyboard Shortcuts](editor/cheatsheet.md)
