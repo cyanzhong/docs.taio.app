@@ -42,6 +42,8 @@ Based on our observation, it works seamlessly with thousands of files. However, 
 
 To avoid situations like this, we recommend you archive old files to somewhere else if you do have tons of files.
 
+> For the same reason, tags don't work for external folders and files.
+
 ## Turning Tags Off
 
 You don't like tags? No worries, find Markdown options in editor settings, turn it off.
