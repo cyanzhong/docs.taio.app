@@ -64,6 +64,14 @@ taio://editor?action=open&path=Example.html&location=0
 
 其他参数的工作方式相同。
 
+## 搜索标签
+
+搜索指定标签，列出包含该标签的所有文件：
+
+```
+taio://editor?action=open&tag=tag
+```
+
 ## 打开快捷草稿
 
 ```

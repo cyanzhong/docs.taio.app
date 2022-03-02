@@ -64,6 +64,14 @@ taio://editor?action=open&path=Example.html&location=0
 
 Other parameters work the same way.
 
+## Search Tags
+
+Search for a given tag, list all files containing that tag:
+
+```
+taio://editor?action=open&tag=tag
+```
+
 ## Open Quick Drafts
 
 ```
