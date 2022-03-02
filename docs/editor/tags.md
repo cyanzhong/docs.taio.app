@@ -36,7 +36,7 @@ Similar to links, there's also a way to quickly find all tags in a document. You
 
 ## Potential Performance Issues
 
-Taio searches tags in all files and cache the results, the scale of files can definitely impact the speed of indexing file.
+Taio searches tags in all files and caches the results, the scale of files can definitely impact the speed of indexing files.
 
 Based on our observation, it works seamlessly with thousands of files. However, if you have tens of thousands of files in your workspace, it may take multiple seconds to complete the indexing process.
 
