@@ -40,6 +40,8 @@
 
 请自由地创建像 `#app/mobile/ios` 这样结构的标签，Taio 知道它的层次结构。
 
+<img class="bordered_img" src="../cn/editor/assets/IMG_5.png" />
+
 ## 潜在的性能问题
 
 Taio 搜索所有文件中的标签并缓存结果，文件的规模肯定会影响索引文件的速度。

@@ -40,6 +40,8 @@ Can a tag belong to another tag? Yes, tags can be nested.
 
 Feel free to create tags with structure like `#app/mobile/ios`, Taio knows its hierarchy.
 
+<img class="bordered_img" src="../editor/assets/IMG_5.png" />
+
 ## Potential Performance Issues
 
 Taio searches tags in all files and caches the results, the scale of files can definitely impact the speed of indexing files.
