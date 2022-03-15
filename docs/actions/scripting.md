@@ -12,6 +12,14 @@ To use JavaScript in Taio, simply add an action called `Run JavaScript` and writ
 
 The code editor is powerful that provides syntax highlighting and auto completion, you can also expand it to full screen mode by tapping on the `Full Editor` option.
 
+## Developing Complicated Scripts
+
+It is usually good to develop scripts using Taio's script editor, since it provides syntax highlighting and auto completion.
+
+However, it would be great to have a nicer environment for larger projects. In such case, we recommend you to use [JSBox](https://apps.apple.com/us/app/id1312014438) as the development environment, it offers a [VS Code extension](https://marketplace.visualstudio.com/items?itemName=Ying.jsbox), with which you can develop scripts on your desktop and run the code directly on your device.
+
+Even better, you can split your code into modules during development, and deploy by bundling them into a single text action, take a look our demo project [tldraw](https://github.com/cyanzhong/tldraw/tree/main/apps/jsbox).
+
 ## $actions
 
 Other than default modules (like `$http`, `$ui`), there's a `$actions` module for Taio. With this module, you can manipulate input and output for actions easily.

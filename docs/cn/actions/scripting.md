@@ -12,6 +12,14 @@ Taio 提供了对运行 JavaScript 的全面支持。更重要的是，JavaScrip
 
 代码编辑器功能全面，提供语法高亮和自动补全，也可以通过点击 `全屏编辑器` 选项将其展开至全屏模式。
 
+## 开发复杂的脚本
+
+通常来说，使用 Taio 的脚本编辑器来开发脚本已经足够好，因为它提供了语法高亮和自动完成等功能。
+
+然而对于大型项目来说，一个更好的环境会让您开发更轻松。在这种情况下，我们推荐使用 [JSBox](https://apps.apple.com/cn/app/id1312014438) 作为开发环境，它提供了一个 [VS Code 扩展](https://marketplace.visualstudio.com/items?itemName=Ying.jsbox)，让您可以在电脑上开发，并直接在设备上运行代码。
+
+更妙的是，您可以在开发过程中把代码分成多个模块，并通过把它们打包到一个文本动作文件来进行部署，请参考我们的示例项目 [tldraw](https://github.com/cyanzhong/tldraw/tree/main/apps/jsbox)。
+
 ## $actions
 
 除了默认的模块（如 `$http` 和 `$ui`），Taio 还特别提供了 `$actions` 模块。通过这个模块，您可以很容易地操作动作的输入和输出。
