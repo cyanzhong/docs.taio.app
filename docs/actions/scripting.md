@@ -77,3 +77,11 @@ $actions.finish();
 ```
 
 This method doesn't generate an error, it finishes running silently.
+
+## $actions.restart()
+
+Restart the current running actions:
+
+```js
+$actions.restart();
+```

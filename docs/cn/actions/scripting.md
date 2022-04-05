@@ -77,3 +77,11 @@ $actions.finish();
 ```
 
 这个方法不会产生错误，仅会静默地结束运行。
+
+## $actions.restart()
+
+重新运行当前正在运行的动作：
+
+```js
+$actions.restart();
+```
