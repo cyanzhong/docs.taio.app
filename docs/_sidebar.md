@@ -11,6 +11,7 @@
   - [Tags](editor/tags.md)
   - [Math Formulas](editor/math.md)
   - [Diagrams](editor/diagrams.md)
+  - [Image Uploading](editor/image-uploading.md)
   - [Keyboard Shortcuts](editor/cheatsheet.md)
 - Text Actions
   - [Basics](actions/basics.md)

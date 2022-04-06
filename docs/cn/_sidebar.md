@@ -10,6 +10,7 @@
   - [标签](cn/editor/tags.md)
   - [数学公式](cn/editor/math.md)
   - [绘制图表](cn/editor/diagrams.md)
+  - [图片上传](cn/editor/image-uploading.md)
   - [键盘快捷键](cn/editor/cheatsheet.md)
 - 文本动作
   - [基础知识](cn/actions/basics.md)
