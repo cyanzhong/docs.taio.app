@@ -8,6 +8,7 @@
   - [你好，Markdown](cn/editor/hello-markdown.md)
   - [进阶技巧](cn/editor/pro-tips.md)
   - [标签](cn/editor/tags.md)
+  - [搜索](cn/editor/search.md)
   - [数学公式](cn/editor/math.md)
   - [绘制图表](cn/editor/diagrams.md)
   - [图片上传](cn/editor/image-uploading.md)

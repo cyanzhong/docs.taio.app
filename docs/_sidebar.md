@@ -9,6 +9,7 @@
   - [Hello, Markdown](editor/hello-markdown.md)
   - [Pro Tips](editor/pro-tips.md)
   - [Tags](editor/tags.md)
+  - [Search](editor/search.md)
   - [Math Formulas](editor/math.md)
   - [Diagrams](editor/diagrams.md)
   - [Image Uploading](editor/image-uploading.md)
