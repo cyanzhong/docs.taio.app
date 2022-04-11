@@ -1,2 +1,2 @@
-- [Release Notes](rn.md)
+- [What's New](whatsnew.md)
 - [**EN** / CN](cn/)
