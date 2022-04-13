@@ -14,6 +14,7 @@ table {
 | Show/Hide sidebar       | ⌘ E      |
 | Toggle Minimal Editor   | ⌃ ⇧ M    |
 | Open Files              | ⌘ O      |
+| Open Quickly            | ⌘ ⇧ O    |
 | Close File              | ⌘ W      |
 | New File                | ⌘ N      |
 | New Tab                 | ⌘ T      |
@@ -21,7 +22,7 @@ table {
 | Previous Tab            | ⌘ ⌥ ←    |
 | Reveal in Explorer      | ⌘ ⇧ J    |
 | Find in Document        | ⌘ F      |
-| Show Outline            | ⌘ ⌥ O    |
+| Show Outline            | ⌃ ⌘ O    |
 | Toggle Preview          | ⌘ P      |
 | Run Actions             | ⌘ R      |
 
@@ -59,5 +60,5 @@ table {
 | :---------------------- | -------: |
 | Soft Break              | ⇧ ↵      |
 | Insert Link             | ⌘ K      |
-| Open Link/File          | ⌘ ⇧ O    |
-| Insert Code Block       | ⌘ ⇧ C    |
+| Open Link/File          | ⌃ ⌘ O    |
+| Insert Code Block       | ⌃ ⌘ C    |
