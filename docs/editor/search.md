@@ -10,6 +10,14 @@ You can also search multiple terms in one query using `space` as delimiters, suc
 
 > Full text search automatically searches sub-folders, it takes some time when you have huge amount of files.
 
+## Open Quickly
+
+With the powerful global search, you can also open files quickly.
+
+<img class="bordered_img" src="../editor/assets/IMG_9.png" />
+
+If you are using an external keyboard on Mac or iPad, `⌘ ⇧ O` will also bring this up.
+
 ## Find in Document
 
 When you are editing a document, you can also find in document.
