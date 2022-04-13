@@ -8,7 +8,7 @@ Search results are beautifully highlighted.
 
 You can also search multiple terms in one query using `space` as delimiters, such as `Markdown plaintext`, it searches for file name or file content that contains both `Markdown` and `plaintext`.
 
-> Full text search automatically searches sub-folders, it takes some time when you have huge amount of files.
+> Full text search automatically searches sub-folders, it takes some time when you have huge amount of files. If you use external folders, make sure to only link necessary files into Taio, otherwise it may have a significant performance drop.
 
 ## Open Quickly
 
