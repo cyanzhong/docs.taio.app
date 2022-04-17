@@ -1,6 +1,6 @@
 ## Full Text Search
 
-In file explorer, you can search both file name and content, with support for fuzzy matching.
+In file explorer, you can search both file name and content, with support for fuzzy matching, case sensitive, and regular expressions.
 
 Search results are beautifully highlighted.
 
@@ -30,4 +30,8 @@ When you are doing a full text search, you can also continue the search in found
 
 <img class="bordered_img" src="../editor/assets/IMG_8.png" />
 
-> There's currently no support for "search and replace", but that's planned.
+## Search and Replace
+
+You can search and replace with advanced options, including case sensitive and regular expressions, preview results with diff view.
+
+<img class="bordered_img" src="../editor/assets/IMG_10.png" />
