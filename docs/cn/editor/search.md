@@ -16,7 +16,7 @@
 
 <img class="bordered_img" src="../cn/editor/assets/IMG_9.png" />
 
-如果您在 Mac 或 iPad 上使用外部键盘，`⌘ ⇧ O` 也可以达到同样的效果。
+如果您在 Mac 或 iPad 上使用外部键盘，"⌘ ⇧ O" 也可以达到同样的效果。
 
 ## 在文档中查找
 

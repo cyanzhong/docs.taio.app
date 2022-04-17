@@ -16,7 +16,7 @@ With the powerful global search, you can also open files quickly.
 
 <img class="bordered_img" src="../editor/assets/IMG_9.png" />
 
-If you are using an external keyboard on Mac or iPad, `⌘ ⇧ O` will also bring this up.
+If you are using an external keyboard on Mac or iPad, "⌘ ⇧ O" will also bring this up.
 
 ## Find in Document
 
