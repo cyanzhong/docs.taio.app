@@ -228,3 +228,7 @@ section.cover .cover-main > p:last-child a:last-child {
   background-color: #1d1f21;
   color: #e3e3e3;
 }
+
+.bordered_img {
+  border: solid 1px #333;
+}
