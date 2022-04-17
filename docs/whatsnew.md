@@ -1,6 +1,6 @@
 ### 🔍 Full Text Search
 
-Revamped search experience, with support for full text search, multi-term search and search result highlighting, [learn more](https://docs.taio.app/#/editor/search).
+Revamped search experience, with support for full text search, multi-term search, search & replace with regex, and result highlighting, [learn more](https://docs.taio.app/#/editor/search).
 
 ### 🌄 Image Uploading
 
