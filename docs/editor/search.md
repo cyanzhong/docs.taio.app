@@ -35,3 +35,7 @@ When you are doing a full text search, you can also continue the search in found
 You can search and replace with advanced options, including case sensitive and regular expressions, preview results with diff view.
 
 <img class="bordered_img" src="../editor/assets/IMG_10.png" />
+
+When searching for regular expression groups, `$number` can be used to retrieve captured group matches. For instance, if we want to increase all headings by a level.
+
+<img class="bordered_img" src="../editor/assets/IMG_11.png" />

@@ -35,3 +35,7 @@
 您可以用高级选项进行搜索和替换，包括区分大小写和正则表达式，用差异对比视图预览结果。
 
 <img class="bordered_img" src="../cn/editor/assets/IMG_10.png" />
+
+当搜索正则表达式分组时，`$number` 可以用来代表捕获到的分组匹配。例如，如果我们想把所有的标题增加一个级别。
+
+<img class="bordered_img" src="../cn/editor/assets/IMG_11.png" />
