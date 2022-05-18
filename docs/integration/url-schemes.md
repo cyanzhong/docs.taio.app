@@ -88,7 +88,7 @@ taio://editor?action=append&path=path&location=0&text=text
 
 The file will be created automatically if it does not exist.
 
-Similarly, you can use parameter `action=overwrite` to overwrite an existing file, instead of appending to the end.
+Similarly, you can use parameter `action=overwrite` to overwrite an existing file, and use parameter `action=prepend` to insert text into the begining of a file.
 
 ## Import Actions
 
