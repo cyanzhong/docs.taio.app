@@ -1,9 +1,5 @@
 # FAQ
 
-## Is there a macOS app?
-
-Yes, we are testing the macOS app, learn more at https://taio.app/mac
-
 ## Are there file services other than iCloud?
 
 Taio currently supports iCloud Drive, and we are considering adding services like OneDrive or other commonly used cloud storage services. In addition, a WebDAV based file transfer method is also planned.
