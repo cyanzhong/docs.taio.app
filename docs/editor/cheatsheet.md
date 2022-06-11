@@ -48,6 +48,7 @@ table {
 
 | Action                  | Key      |
 | :---------------------- | -------: |
+| Use Command Palette     | / or ⌘ / |
 | Save File               | ⌘ S      |
 | Move Lines Up           | ⌘ ⌥ ↑    |
 | Move Lines Down         | ⌘ ⌥ ↓    |
