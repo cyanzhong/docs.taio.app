@@ -1,4 +1,4 @@
-### 指令面板
+### ⚡️ 指令面板
 
 输入 `/` 或按下 `⌘ /` 来显示指令面板，不离开键盘就能执行更多操作，[了解更多](https://docs.taio.app/#/cn/editor/command-palette)。
 

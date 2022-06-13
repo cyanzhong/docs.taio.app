@@ -1,4 +1,4 @@
-### Command Palette
+### ⚡️ Command Palette
 
 Type `/` or press `⌘ /` to show command palette, achieve more without leaving the keyboard, [learn more](https://docs.taio.app/#/editor/command-palette).
 
