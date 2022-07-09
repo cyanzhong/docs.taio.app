@@ -25,6 +25,7 @@ table {
 | Show Outline            | ⌃ ⌘ O    |
 | Toggle Preview          | ⌘ P      |
 | Run Actions             | ⌘ R      |
+| Finish Editing          | ESC      |
 
 **Font Size**
 
