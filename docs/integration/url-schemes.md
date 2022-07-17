@@ -66,6 +66,14 @@ taio://editor?action=open&path=Example.html&location=0
 
 Other parameters work the same way.
 
+## Search Files
+
+```
+taio://editor?action=search&query=query
+```
+
+`query` optional search term to start the search.
+
 ## Search Tags
 
 Search for a given tag, list all files containing that tag:

@@ -66,6 +66,14 @@ taio://editor?action=open&path=Example.html&location=0
 
 其他参数的工作方式相同。
 
+## 搜索文件
+
+```
+taio://editor?action=search&query=query
+```
+
+`query` 可选的初始搜索关键词。
+
 ## 搜索标签
 
 搜索指定标签，列出包含该标签的所有文件：
