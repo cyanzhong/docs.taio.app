@@ -47,10 +47,12 @@ taio://editor?action=new&path=path&location=0
 ## Open A File in The Editor
 
 ```
-taio://editor?action=open&path=path&location=0
+taio://editor?action=open&path=path&location=0&edit-pos=none
 ```
 
 `location` 0: local files, 1: iCloud Drive files, 2: Added external locations.
+
+`edit-pos` none: don't start editing, beginning: start editing from the beginging, end: start editing from the end.
 
 It opens the folder in file explorer when `path` is a folder.
 
@@ -75,8 +77,10 @@ taio://editor?action=open&tag=tag
 ## Open Quick Drafts
 
 ```
-taio://drafts
+taio://drafts?edit-pos=none
 ```
+
+`edit-pos` none: don't start editing, beginning: start editing from the beginging, end: start editing from the end.
 
 ## Append Text to File
 

@@ -47,10 +47,12 @@ taio://editor?action=new&path=path&location=0
 ## 在编辑器中打开文件
 
 ```
-taio://editor?action=open&path=path&location=0
+taio://editor?action=open&path=path&location=0&edit-pos=none
 ```
 
-`location` 0：本地文件，1：iCloud 云盘文件，2: 添加的外部位置。
+`location` 0：本地文件，1：iCloud 云盘文件，2：添加的外部位置。
+
+`edit-pos` none：不开始编辑，beginning：从文件头部开始编辑，end：从文件尾部开始编辑。
 
 当 `path` 是目录时，将在文件管理器中打开该目录。
 
@@ -75,8 +77,10 @@ taio://editor?action=open&tag=tag
 ## 打开快捷草稿
 
 ```
-taio://drafts
+taio://drafts?edit-pos=none
 ```
+
+`edit-pos` none：不开始编辑，beginning：从文件头部开始编辑，end：从文件尾部开始编辑。
 
 ## 追加内容到文件
 
@@ -84,7 +88,7 @@ taio://drafts
 taio://editor?action=append&path=path&location=0&text=text
 ```
 
-`location` 0：本地文件，1：iCloud 云盘文件，2: 添加的外部位置。
+`location` 0：本地文件，1：iCloud 云盘文件，2：添加的外部位置。
 
 文件不存在时将会自动创建。
 
