@@ -75,3 +75,23 @@ erDiagram
 ```
 
 也即使用标识符 `mermaid` 嵌入其代码。
+
+## PlantUML
+
+此功能使用 [PlantUML](https://plantuml.com) 实现，您可以使用以下方式在 Markdown 内容中嵌入：
+
+<pre style="padding-top: 12px; padding-bottom: 2px">
+```plantuml
+Alice -> Bob: Authentication Request
+Bob --> Alice: Authentication Response
+
+Alice -> Bob: Another authentication Request
+Alice <-- Bob: Another authentication Response
+```
+</pre>
+
+<img src="http://www.plantuml.com/plantuml/svg/SoWkIImgAStDuNBCoKnELT2rKt3AJx9IS2mjoKZDAybCJYp9pCzJ24ejB4qjBk42oYde0jM05MDHLLoGdrUSoeLkM5u-K5sHGY9MGw6ARNHryQb66EwGcfS2T300">
+
+也即使用标识符 `plantuml` 嵌入其代码。
+
+> 或者，您也可以使用 @startuml 和 @enduml 来嵌入上述代码。

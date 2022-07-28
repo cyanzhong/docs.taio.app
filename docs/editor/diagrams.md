@@ -75,3 +75,23 @@ erDiagram
 ```
 
 That is, embedding the code using identifier `mermaid`.
+
+## PlantUML
+
+This feature is implemented using [PlantUML](https://plantuml.com/), you can use it as following:
+
+<pre style="padding-top: 12px; padding-bottom: 2px">
+```plantuml
+Alice -> Bob: Authentication Request
+Bob --> Alice: Authentication Response
+
+Alice -> Bob: Another authentication Request
+Alice <-- Bob: Another authentication Response
+```
+</pre>
+
+<img src="http://www.plantuml.com/plantuml/svg/SoWkIImgAStDuNBCoKnELT2rKt3AJx9IS2mjoKZDAybCJYp9pCzJ24ejB4qjBk42oYde0jM05MDHLLoGdrUSoeLkM5u-K5sHGY9MGw6ARNHryQb66EwGcfS2T300">
+
+That is, embedding the code using identifier `plantuml`.
+
+> Alternatively, you can also use @startuml and @enduml to wrap the code blocks.
