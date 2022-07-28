@@ -1,3 +1,13 @@
+### 🔥 Major Update
+
+- iOS 16 UX refresh
+- New widgets
+- PlantUML
+- Per-file highlight mode
+- Actions backup & restore
+- Better import
+- Lots of fixes and redesigns
+
 ### ⚡️ Command Palette
 
 Type `/` or press `⌘ /` to show command palette, achieve more without leaving the keyboard, [learn more](https://docs.taio.app/#/editor/command-palette).
