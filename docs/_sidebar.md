@@ -9,6 +9,7 @@
   - [Hello, Markdown](editor/hello-markdown.md)
   - [Pro Tips](editor/pro-tips.md)
   - [Command Palette](editor/command-palette.md)
+  - [File Creation](editor/file-creation.md)
   - [Tags](editor/tags.md)
   - [Search](editor/search.md)
   - [Math Formulas](editor/math.md)

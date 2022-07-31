@@ -8,6 +8,7 @@
   - [你好，Markdown](cn/editor/hello-markdown.md)
   - [进阶技巧](cn/editor/pro-tips.md)
   - [指令面板](cn/editor/command-palette.md)
+  - [创建文件](cn/editor/file-creation.md)
   - [标签](cn/editor/tags.md)
   - [搜索](cn/editor/search.md)
   - [数学公式](cn/editor/math.md)
