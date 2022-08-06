@@ -11,6 +11,7 @@
   - [创建文件](cn/editor/file-creation.md)
   - [标签](cn/editor/tags.md)
   - [搜索](cn/editor/search.md)
+  - [Wiki 链接](cn/editor/wiki-links.md)
   - [数学公式](cn/editor/math.md)
   - [绘制图表](cn/editor/diagrams.md)
   - [图片上传](cn/editor/image-uploading.md)
