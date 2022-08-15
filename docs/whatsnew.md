@@ -1,8 +1,12 @@
+### 🔨 Embed Text Actions
+
+Text actions can embed other text actions, which means they are reusable now.
+
 ### 🔍 Focus on Details
 
 - Added: redesigned statistics view
 - Added: scroll the preview using keyboard
-- Added: embed files with ![[File]]
+- Added: embed files with `![[File]]`
 - Added: regex group capturing for find text action
 - Fixed: highlighting doesn't work with special characters
 - Fixed: several UI glitches
@@ -24,7 +28,3 @@ Added support for both `file templates` and customizable `default file name`. Yo
 ### ⚡️ Command Palette
 
 Type `/` or press `⌘ /` to show command palette, achieve more without leaving the keyboard, [learn more](https://docs.taio.app/#/editor/command-palette).
-
-### 🐞 Bug Fixes
-
-We have been focusing on quality recently, some recently reported bugs and crashes are fixed in this release, please keep sending feedback!
