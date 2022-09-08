@@ -1,3 +1,15 @@
+### 🔥 Ready for iOS 16
+
+Taio has been refreshed for the upcoming iOS 16 release, with major updates including but not limited to:
+
+- New lock screen widgets
+- New customizable toolbar for iPadOS
+- New text find workflow
+- New edit menu and title menu
+- New paste button for clipboard
+
+Please take a look and let us know what you think!
+
 ### 🔨 Embed Text Actions
 
 Text actions can embed other text actions, which means they are reusable now.
@@ -24,7 +36,3 @@ Added support for both `file templates` and customizable `default file name`. Yo
 - Actions backup & restore
 - Better import
 - Lots of fixes and redesigns
-
-### ⚡️ Command Palette
-
-Type `/` or press `⌘ /` to show command palette, achieve more without leaving the keyboard, [learn more](https://docs.taio.app/#/editor/command-palette).
