@@ -1,9 +1,9 @@
-### 🔥 Ready for iOS 16
+### 🔥 Refreshed for iOS 16
 
-Taio has been refreshed for the upcoming iOS 16 release, with major updates including but not limited to:
+Taio has been refreshed for the iOS 16 update, with major updates including but not limited to:
 
 - New lock screen widgets
-- New customizable toolbar for iPadOS
+- New customizable toolbar for iPad
 - New text find workflow
 - New edit menu and title menu
 - New paste button for clipboard
