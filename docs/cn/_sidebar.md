@@ -27,6 +27,7 @@
   - [快捷指令](cn/integration/shortcuts.md)
   - [Working Copy](cn/integration/working-copy.md)
   - [TextExpander](cn/integration/text-expander.md)
+  - [Hook](cn/integration/hook.md)
   - [URL Schemes](cn/integration/url-schemes.md)
 - 隐私和条款
   - [隐私政策](cn/privacy.md)
