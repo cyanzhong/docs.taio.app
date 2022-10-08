@@ -15,6 +15,7 @@
   - [Wiki Links](editor/wiki-links.md)
   - [Math Formulas](editor/math.md)
   - [Diagrams](editor/diagrams.md)
+  - [Custom Preview](editor/custom-preview.md)
   - [Image Uploading](editor/image-uploading.md)
   - [Keyboard Shortcuts](editor/cheatsheet.md)
 - Text Actions

@@ -1,3 +1,7 @@
+### 🪄 Customizable Previews
+
+We can now customize preview styles and behaviors with CSS and JavaScript, [learn more](https://docs.taio.app/#/editor/custom-preview).
+
 ### 🔥 Refreshed for iOS 16
 
 Taio has been refreshed for the iOS 16 update, with major updates including but not limited to:
@@ -26,13 +30,3 @@ Text actions can embed other text actions, which means they are reusable now.
 ### 🖋 Improve File Creation
 
 Added support for both `file templates` and customizable `default file name`. You can now create files using powerful text actions, [learn more](https://docs.taio.app/#/editor/file-creation).
-
-### 🔥 Major Update
-
-- iOS 16 UX refresh
-- New widgets
-- PlantUML
-- Per-file highlight mode
-- Actions backup & restore
-- Better import
-- Lots of fixes and redesigns
