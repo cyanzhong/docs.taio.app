@@ -33,7 +33,9 @@ Generally, we will need to cover bunches of selectors to have a complete overwri
 
 If possible, try to avoid using translucent background colors on the HTML body.
 
-When generating PDF for HTML with translucent background color, Taio remixes the color to remove the alpha channel, in order to fill the PDF paper background with the same color.
+When generating PDF for HTML with translucent background color, Taio remixes the foreground color and background color and removes the alpha channel, in order to fill the PDF paper background with the same color.
+
+It tries its best to replicate the original colors but that's not guaranteed.
 
 ### Quick Switcher
 
