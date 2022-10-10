@@ -41,6 +41,8 @@ It tries its best to replicate the original colors but that's not guaranteed.
 
 To quickly switch between style sheets in preview mode, long press the preview button (right-click on macOS) and we will see a popup menu.
 
+> On iPad running iPadOS 16 or higher, you can also leverage the customizable toolbar to switch styles.
+
 ## Customize Behaviors
 
 The JavaScript file that adds custom behaviors can be found by going preview settings, custom plugins. The default implementation is just a placeholder, and you can change it to match your needs.
