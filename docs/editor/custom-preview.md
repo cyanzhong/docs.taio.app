@@ -7,7 +7,7 @@ To learn more about CSS and JavaScript, please refer to:
 - [Mozilla's CSS Guide](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [Mozilla's JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-## Customize Styles
+## Customizing Styles
 
 Style sheets can be found by going preview settings, custom styles. There're several built-in example style sheets, you can also create your own.
 
@@ -43,11 +43,11 @@ To quickly switch between style sheets in preview mode, long press the preview b
 
 > On iPad running iPadOS 16 or higher, you can also leverage the customizable toolbar to switch styles.
 
-## Customize Behaviors
+## Customizing Behaviors
 
 The JavaScript file that adds custom behaviors can be found by going preview settings, custom plugins. The default implementation is just a placeholder, and you can change it to match your needs.
 
-This file is just a plain text file located in `/Taio/Templates/PreviewPlugins.js`, editing it using your favorite source code editor works too.
+This file is just a plain text file located at `/Taio/Templates/PreviewPlugins.js`, editing it using your favorite source code editor works too.
 
 With this JavaScript file, you can add more extensions to the preview.
 
