@@ -1,3 +1,7 @@
+### 🏝 Live Activity and Dynamic Island
+
+On iPhone with iOS 16.1, we can pin text snippets as live activities to Lock Screen and Dynamic Island.
+
 ### 🪄 Customizable Previews
 
 We can now customize preview styles and behaviors with CSS and JavaScript, [learn more](https://docs.taio.app/#/editor/custom-preview).
@@ -26,7 +30,3 @@ Text actions can embed other text actions, which means they are reusable now.
 - Added: regex group capturing for find text action
 - Fixed: highlighting doesn't work with special characters
 - Fixed: several UI glitches
-
-### 🖋 Improve File Creation
-
-Added support for both `file templates` and customizable `default file name`. You can now create files using powerful text actions, [learn more](https://docs.taio.app/#/editor/file-creation).
