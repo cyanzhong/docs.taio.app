@@ -82,6 +82,14 @@ taio://editor?action=search&query=query
 taio://editor?action=open&tag=tag
 ```
 
+## 打开实时便笺
+
+在运行 iOS 16.1 以上的 iPhone 上打开实时便笺：
+
+```
+taio://editor?action=live-notes
+```
+
 ## 打开快捷草稿
 
 ```

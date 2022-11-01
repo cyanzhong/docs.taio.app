@@ -82,6 +82,14 @@ Search for a given tag, list all files containing that tag:
 taio://editor?action=open&tag=tag
 ```
 
+## Open Live Notes
+
+Open Live Notes on iPhone running iOS 16.1 and higher:
+
+```
+taio://editor?action=live-notes
+```
+
 ## Open Quick Drafts
 
 ```
